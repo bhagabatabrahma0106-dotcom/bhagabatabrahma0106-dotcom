@@ -1,440 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Bhagabata%20Brahma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Governance%20%7C%20D365%20F%26O&descAlignY=52&descSize=18" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30"/>
-<b>Hi, I'm Bhagabata — welcome to my data world</b>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A23,50:7B2FF7,100:00F5FF&height=280&section=header&text=BHAGABATA%20BRAHMA&fontSize=52&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=//%20DATA%20ANALYST%20·%20POWER%20BI%20DEVELOPER%20·%20DATA%20GOVERNANCE&descAlignY=60&descSize=16" width="100%"/>
 
 <a href="https://github.com/bhagabatabrahma0106-dotcom">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Turning+Raw+Data+into+Governed+Insight;SQL+%7C+Tableau+%7C+Excel+%7C+Collibra;Data+Governance+%26+Data+Quality+Enthusiast;Always+Learning+%2C+Always+Querying" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+INITIALIZING+PROFILE...;%3E+Turning+raw+data+into+governed+insight;%3E+SQL+%7C+Power+BI+%7C+DAX+%7C+Python+%7C+Governance;%3E+STATUS%3A+AVAILABLE+IMMEDIATELY" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-2026%20%7C%2080%25-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/College-Satyasai%20Engineering%20College-4C1D95?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍-Whitefield%2C%20Bengaluru-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00F5FF?style=for-the-badge&labelColor=0A0A23)
+![Location](https://img.shields.io/badge/LOCATION-BENGALURU,_IN-7B2FF7?style=for-the-badge&labelColor=0A0A23)
+![CGPA](https://img.shields.io/badge/B.TECH_CSE-CGPA_8.04-FF00E5?style=for-the-badge&labelColor=0A0A23)
 
-<br/><br/>
+<br/>
 
-<a href="https://jerry-s-portfolio-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/bhagabata-brahma"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bhagabatabrahma0106@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/bhagabatabrahma0106-dotcom"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhagabatabrahma0106-dotcom&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/bhagabatabrahma0106-dotcom?color=7C3AED&style=for-the-badge&label=FOLLOWERS&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/bhagabatabrahma0106-dotcom?color=A78BFA&style=for-the-badge&label=STARS&labelColor=1a1a2e)
+<a href="https://linkedin.com/in/bhagabata-brahma"><img src="https://img.shields.io/badge/LINKEDIN-0A0A23?style=for-the-badge&logo=linkedin&logoColor=00F5FF&color=0A0A23&label=%F0%9F%94%97"/></a>
+<a href="mailto:bhagabatabrahma0106@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A23?style=for-the-badge&logo=gmail&logoColor=FF00E5&color=0A0A23&label=%E2%9C%89"/></a>
+<a href="https://jerry-s-portfolio-web.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0A0A23?style=for-the-badge&logo=googlechrome&logoColor=7B2FF7&color=0A0A23&label=%F0%9F%8C%90"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B2FF7&height=2&section=header" width="100%"/>
 
-## 🪶 About Me
+## `> whoami`
 
 ```yaml
-name: Bhagabata Brahma
-role: Data Analyst | Data Governance | Data Quality Management
-location: Whitefield, Bengaluru, Karnataka - 560066
-email: bhagabatabrahma0106@gmail.com
-languages_spoken: [Odia (Native), English, Hindi]
-education: B.Tech (2026), Satyasai Engineering College — 80% aggregate
-experience: ~10 months combined hands-on (Data Analysis + D365 F&O ERP training)
+name:        Bhagabata Brahma
+role:        Data Analyst | Power BI Developer | Data Governance Analyst
+base:        Whitefield, Bengaluru, KA
+education:   B.Tech CSE (2022-2026) @ SSEC / BPUT  ::  CGPA 8.04
+languages:   [Odia (native), English (professional)]
+status:      Available immediately  ->  full-time
+mission:     "Data only becomes insight when someone trusts it enough to act on it."
 ```
 
-**Results-driven Data Analyst** with hands-on experience across **Data Analysis, Data Governance, Data Quality Management, and Data Reporting**, supplemented by intensive enterprise ERP training in **Microsoft Dynamics 365 Finance & Operations**. I specialize in data extraction, cleansing, transformation, and visualization using **SQL, MS Excel, and Tableau**, with practical exposure to **ETL pipelines, SSRS reporting, and financial data workflows (AR/AP)**.
+I build **end-to-end data pipelines** that go from messy multi-source records to **governed, dashboard-ready datasets**: SQL for extraction and validation, Power BI + DAX for live KPIs, Python for automation, and **DAMA-DMBOK-aligned governance** (stewardship, lineage, glossary, catalog) to keep everything trustworthy.
 
-I bring strong foundational knowledge of **Data Governance frameworks, Data Catalog management (Collibra), and Data Quality best practices** — and I'm fluent in Odia, a real differentiator for data-quality and localization-focused roles.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:FF00E5&height=2&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/🔭%20Actively%20Seeking-Data%20Analyst%20%2F%20Data%20Governance%20Analyst%20Roles-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=20&section=footer" width="100%"/>
-
-## 🧰 Tech Stack
+## `> system.stack`
 
 <div align="center">
 
-**Languages & Query**
-<br/>
-<img src="https://skillicons.dev/icons?i=py&theme=dark"/>
-<img src="https://img.shields.io/badge/SQL%20Server-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/X%2B%2B-4C1D95?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-**Data, BI & Visualization**
-<br/>
-<img src="https://img.shields.io/badge/Tableau-7C3AED?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Excel-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-4C1D95?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-A78BFA?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-
-**Data Governance & Catalog**
-<br/>
-<img src="https://img.shields.io/badge/Collibra-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Glossary-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Lineage-6D28D9?style=for-the-badge"/>
-
-**ERP & Enterprise Systems**
-<br/>
-<img src="https://img.shields.io/badge/Dynamics%20365%20F%26O-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSRS-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AOT%20Queries-6D28D9?style=for-the-badge"/>
-
-**Python Stack**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-A78BFA?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-<img src="https://img.shields.io/badge/GPT%20Assisted%20Analysis-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+| MODULE | TECHNOLOGIES |
+|:--|:--|
+| 🗄️ **Database** | ![SQL Server](https://img.shields.io/badge/MS_SQL_Server-0A0A23?style=flat-square&logo=microsoftsqlserver&logoColor=00F5FF) `JOINs` `CTEs` `Window Functions` `Subqueries` `Stored Procs` `Validation Scripts` |
+| 📊 **BI & Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-0A0A23?style=flat-square&logo=powerbi&logoColor=FF00E5) `DAX` `Power Query (M)` `Data Modelling` `KPI Reports` |
+| 🐍 **Python** | ![Pandas](https://img.shields.io/badge/pandas-0A0A23?style=flat-square&logo=pandas&logoColor=7B2FF7) ![NumPy](https://img.shields.io/badge/NumPy-0A0A23?style=flat-square&logo=numpy&logoColor=00F5FF) `Cleaning` `Dedup` `Automation` |
+| 📑 **Spreadsheets** | ![Excel](https://img.shields.io/badge/Excel-0A0A23?style=flat-square&logo=microsoftexcel&logoColor=00F5FF) ![Sheets](https://img.shields.io/badge/Google_Sheets-0A0A23?style=flat-square&logo=googlesheets&logoColor=FF00E5) `XLOOKUP` `SUMIFS` `Pivot` `QUERY` `ARRAYFORMULA` |
+| 🛡️ **Governance** | `DAMA-DMBOK` `Stewardship` `Metadata Mgmt` `Data Lineage` `Business Glossary` `Data Catalog` `Data Quality` `Lifecycle Mgmt` |
+| 🧰 **Tools** | ![Git](https://img.shields.io/badge/Git-0A0A23?style=flat-square&logo=git&logoColor=7B2FF7) ![GitHub](https://img.shields.io/badge/GitHub-0A0A23?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0A0A23?style=flat-square&logo=visualstudiocode&logoColor=00F5FF) `SSMS` `PowerPoint` |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=20&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F5FF&height=2&section=header" width="100%"/>
 
-## 📊 Data & Governance Expertise
+## `> experience.log`
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| SQL (MS SQL Server) | ⭐⭐⭐⭐☆ | DDL/DML, multi-table joins, subqueries, aggregations, validation queries |
-| Data Governance | ⭐⭐⭐⭐☆ | Stewardship, ownership, lifecycle management, Collibra catalog admin |
-| Data Quality Management | ⭐⭐⭐⭐☆ | Duplicate detection, null handling, profiling, reconciliation |
-| Tableau | ⭐⭐⭐⭐☆ | Dashboard design, multi-source data blending, business visualization |
-| MS Excel | ⭐⭐⭐⭐⭐ | Pivot tables, VLOOKUP, conditional formatting, workbook design |
-| Data Catalog & Metadata | ⭐⭐⭐⭐☆ | Business glossary creation, data lineage mapping (Collibra) |
-| D365 F&O (SSRS / X++) | ⭐⭐⭐☆☆ | Report development, AOT queries, AR/AP financial data pipelines |
-| Python | ⭐⭐⭐☆☆ | Pandas, NumPy — intermediate data manipulation |
+### 🟣 Data Analyst Intern · **Data Gyan**, Bengaluru
+`Oct 2025 – Feb 2026` &nbsp;|&nbsp; *Data Management & Business Intelligence · B2B Customer Data · Marketing Analytics*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=footer" width="100%"/>
+```diff
++ REQUIREMENTS   Ran stakeholder sessions to define scope, KPIs & deliverables across 3 project phases
++ DATA           Sourced & profiled 5,000+ B2B records (LinkedIn, conferences, vendor DBs) into 3 segments
++ SQL            Authored 20+ optimised queries (JOINs, CTEs, CASE, aggregations) -> unified master dataset
++ BI             Built & published 3 Power BI reports: Power Query (M) + DAX for lead, conversion & reach KPIs
++ SPREADSHEETS   Designed 5 templates (VLOOKUP, SUMIFS, ARRAYFORMULA, QUERY) to cut manual prep effort
++ PYTHON         pandas automation: deduplication, null handling, standardisation -> 300+ duplicates removed
++ GOVERNANCE     Ownership mapping, stewardship workflows & lifecycle classification (DAMA-DMBOK)
++ CATALOG        Business glossary (15+ terms), lineage ingestion -> Power BI, 12 assets tagged with metadata
++ QUALITY        Resolved 6 categories of issues; pre/post-load SQL validation -> 98%+ accuracy
+```
 
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B2FF7&height=2&section=header" width="100%"/>
+
+## `> pipeline.architecture`
+
+```mermaid
+flowchart LR
+    A[LinkedIn / Conferences / Vendors] --> B[Profiling]
+    B --> C[Python pandas<br/>Dedup · Nulls · Standardise]
+    C --> D[(MS SQL Server<br/>Master Dataset)]
+    D --> E{SQL Validation<br/>Counts · RI · Completeness}
+    E --> F[Power Query + DAX]
+    F --> G[📊 Power BI Dashboards]
+    D -.-> H[Glossary · Lineage · Catalog]
+    H -.-> G
+    style D fill:#0A0A23,stroke:#00F5FF,color:#00F5FF
+    style G fill:#0A0A23,stroke:#FF00E5,color:#FF00E5
+    style E fill:#0A0A23,stroke:#7B2FF7,color:#fff
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:FF00E5&height=2&section=header" width="100%"/>
+
+## `> impact.metrics`
 
 <div align="center">
 
-<a href="https://github.com/bhagabatabrahma0106-dotcom/sql-sales-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=sql-sales-analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/bhagabatabrahma0106-dotcom/Excel-Adv.--Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=Excel-Adv.--Data-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" />
-</a>
-<br/>
-<a href="https://github.com/bhagabatabrahma0106-dotcom/Tableau_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=Tableau_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" />
-</a>
+| 5,000+ | 20+ | 3 | 300+ | 98%+ | 15+ |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| records profiled | SQL queries | Power BI reports | duplicates removed | data accuracy | glossary terms |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F5FF&height=2&section=header" width="100%"/>
+
+## `> projects.index`
+
+<div align="center">
+
 <a href="https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=End-To-End-Data-Management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=End-To-End-Data-Management&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/sql-sales-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=sql-sales-analysis&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9" />
+</a>
+<br/>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/Excel-Adv.--Data-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=Excel-Adv.--Data-Analysis&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhagabatabrahma0106-dotcom&repo=Python-Data_Anlysis&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9" />
 </a>
 
 </div>
 
-<details>
-<summary><b>📘 SQL Sales Analysis</b></summary>
-<br/>
+| Project | Stack | Focus |
+|:--|:--|:--|
+| **End-To-End Data Management** | SQL Server · Power BI · Python · Sheets | Multi-source ingestion -> governed master dataset -> KPI dashboards |
+| **SQL Sales Analysis** | SQL Server | KPI calculation & sales performance querying |
+| **Excel Advanced Analysis** | Excel | HR payroll & performance analytics modelling |
+| **Python Data Analysis** | Python · pandas · NumPy | Cleaning & analysis notebooks |
+| **EdTech Analysis** | Python · Jupyter | EdTech domain analytics |
 
-Sales analysis project using SQL with KPI calculations.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7B2FF7&height=2&section=header" width="100%"/>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | SQL Server |
-| **Focus** | KPI calculation, sales performance querying |
-| **Repository** | [sql-sales-analysis](https://github.com/bhagabatabrahma0106-dotcom/sql-sales-analysis) |
+## `> education.db`
 
-</details>
+| Level | Institution | Result |
+|:--|:--|:--|
+| 🎓 **B.Tech, Computer Science & Engineering** (2022–2026) | Satyasai Engineering College · BPUT, Odisha | **CGPA 8.04** · DBMS (A) · Python Programming (O) |
+| 📘 **Intermediate +2, Science** (2022) | CHSE, Odisha | 77% |
 
-<details>
-<summary><b>📊 Enterprise HR Payroll & Performance Analytics (Excel)</b></summary>
-<br/>
+**Training:** Power BI & DAX · SQL for Data Analysis · Python for Data Analysis · Data Governance Fundamentals (DAMA-DMBOK) · Google Sheets Advanced Analytics
 
-Advanced Excel project modeling HR payroll and performance analytics.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:FF00E5&height=2&section=header" width="100%"/>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | MS Excel (Advanced) |
-| **Focus** | Payroll analytics, performance dashboards |
-| **Repository** | [Excel-Adv.--Data-Analysis](https://github.com/bhagabatabrahma0106-dotcom/Excel-Adv.--Data-Analysis) |
-
-</details>
-
-<details>
-<summary><b>📈 Tableau Project</b></summary>
-<br/>
-
-Dashboarding and visualization project built in Tableau.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Tableau |
-| **Focus** | Multi-source data blending, dashboard design |
-| **Repository** | [Tableau_Project](https://github.com/bhagabatabrahma0106-dotcom/Tableau_Project) |
-
-</details>
-
-<details>
-<summary><b>🏗️ End-to-End Data Management (Data Gyan)</b></summary>
-<br/>
-
-End-to-end data pipeline consolidating raw data from multiple channels into a governed, analysis-ready master dataset.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | SQL Server, MS Excel, Tableau, Collibra, Google Sheets |
-| **Scale** | 10,000+ records consolidated from LinkedIn, conferences, vendor lists |
-| **Performance** | 50+ SQL ETL scripts; master dataset spanning 8+ source categories |
-| **Data Quality** | 500+ issues resolved — duplicates, nulls, inconsistencies (~25% accuracy gain) |
-| **Impact** | 5+ Tableau dashboards; ~30% reduction in manual reporting time |
-| **Repository** | [End-To-End-Data-Management](https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management) |
-
-</details>
-
-<details>
-<summary><b>🐍 Python Data Analysis</b></summary>
-<br/>
-
-Data analysis notebooks demonstrating Pandas/NumPy workflows.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Pandas, NumPy, Jupyter Notebook |
-| **Repository** | [Python-Data_Anlysis](https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis) |
-
-</details>
-
-<details>
-<summary><b>🎓 EdTech Analysis</b></summary>
-<br/>
-
-Analytics project exploring EdTech domain data.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Jupyter Notebook |
-| **Repository** | [EdTech-Analysis](https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis) |
-
-</details>
-
-<details>
-<summary><b>📘 SQL Interview Q&A Master Repository</b></summary>
-<br/>
-
-A comprehensive, comment-formatted SQL knowledge base built for real interview prep — covering SQL, Excel, Tableau, Python, Data Governance, Power BI, statistics, and behavioral rounds.
-
-| Aspect | Detail |
-|---|---|
-| **Scale** | 560+ Q&A across 8 topic areas |
-| **Content** | 7-day SQL Server onboarding curriculum |
-| **Format** | SQL comment-style + interactive HTML visualizations |
-| **Repository** | *Add link once pushed to GitHub* |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=20&section=footer" width="100%"/>
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="70%">
-
-**Technical Trainee — Microsoft Dynamics 365 F&O**
-*Ghora Technologies, Bengaluru*
-`Jan 2025 – Jun 2025`
-
-- Completed a structured 6-month D365 F&O training program across 100+ guided sessions
-- Mastered advanced SQL — multi-table joins, subqueries, aggregations — across 100+ practice problems
-- Developed and customized SSRS reports for Purchase Orders and Sales Orders
-- Debugged Functional Design Documents (FDDs) for real client implementations (Bangladesh, Zimbabwe)
-- Built runnable test classes using QBDS, AOT Queries, Views, Maps, and Container objects
-- Studied end-to-end AR/AP flows, master data, workflow automation, batch jobs, number sequences
-
-</td>
-<td width="30%" align="center">
-
-`D365 F&O`
-`SSRS`
-`SQL`
-`X++`
-`AOT Queries`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="70%">
-
-**Data Analyst Intern**
-*Data Gyan, Bengaluru*
-`Oct 2024 – Feb 2025`
-
-- Gathered and consolidated 10,000+ records from LinkedIn, conferences, and vendor lists
-- Authored 50+ SQL ETL scripts, building a master dataset across 8+ source categories
-- Developed 5+ Tableau dashboards, cutting manual reporting time by ~30%
-- Resolved 500+ data quality issues, improving dataset accuracy by ~25%
-- Applied Data Governance principles via Collibra — stewardship, onboarding, policy management
-- Executed metadata management: business glossary, data lineage, asset cataloguing
-
-</td>
-<td width="30%" align="center">
-
-`Collibra`
-`Informatica`
-`Tableau`
-`SQL`
-`Data Governance`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,11&height=20&section=footer" width="100%"/>
-
-## 🏆 Achievements
+## `> telemetry`
 
 <div align="center">
 
-| Recognition | Details |
-|:---:|:---:|
-| 🎓 Academic Excellence | 80% aggregate throughout B.Tech |
-| 🔄 Full-Cycle Data Project | Raw data → dashboard-ready insights, delivered on time at Data Gyan |
-| 🗂️ Collibra Platform Expertise | Hands-on Data Governance, Data Catalog & stewardship workflows |
-| 🧮 Master Dataset Build | Independently consolidated multi-source data in SQL Server |
-| 📊 Business-Ready Dashboards | Tableau dashboards supporting client-facing strategic decisions |
+<img src="https://github-readme-stats.vercel.app/api?username=bhagabatabrahma0106-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00F5FF&icon_color=FF00E5&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=bhagabatabrahma0106-dotcom&theme=tokyonight&hide_border=true&background=0A0A23&ring=FF00E5&fire=00F5FF&currStreakLabel=00F5FF" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagabatabrahma0106-dotcom&theme=tokyo-night&hide_border=true&bg_color=0A0A23&color=00F5FF&line=7B2FF7&point=FF00E5&area=true" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=20&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F5FF&height=2&section=header" width="100%"/>
 
-## 🎓 Education
-
-<table>
-<tr>
-<td>🎓</td>
-<td><b>Bachelor of Technology (B.Tech)</b> — 2026<br/>Satyasai Engineering College (SSEC) · Aggregate: 80%</td>
-</tr>
-<tr>
-<td>📘</td>
-<td><b>Higher Secondary Certificate (+2 / Class XII)</b> — 2022<br/>Council of Higher Secondary Education (CHSE), Odisha · Aggregate: 77%</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,6,20&height=20&section=footer" width="100%"/>
-
-## 📜 Certifications & Training
-
-<div align="center">
-<img src="https://img.shields.io/badge/Collibra%20Data%20Governance%20%26%20Catalog-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Management%20Internship-7C3AED?style=for-the-badge"/>
-</div>
-
-- **Collibra Data Governance & Data Catalog** — Training Completed, Collibra Platform
-- **SQL for Data Analysis** — Hands-on data validation, querying, and profiling (SQL Server)
-- **Data Management Internship Program** — Data Gyan, Bengaluru (Oct 2024 – Feb 2025)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=footer" width="100%"/>
-
-## 🌐 Languages
-
-<div align="center">
-
-| 🗣️ Language | Proficiency |
-|:---:|:---:|
-| Odia | Native / Mother Tongue |
-| English | Professional Working Proficiency |
-| Hindi | Professional Working Proficiency |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=20&section=footer" width="100%"/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhagabatabrahma0106-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=bhagabatabrahma0106-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagabatabrahma0106-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="60%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=20&section=footer" width="100%"/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhagabatabrahma0106-dotcom&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&animation=true"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,11&height=20&section=footer" width="100%"/>
-
-## 📉 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagabatabrahma0106-dotcom&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,11&height=20&section=footer" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/bhagabatabrahma0106-dotcom/bhagabatabrahma0106-dotcom/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> *Requires the snake-generation GitHub Action set up in a repo named after your username — see setup steps below*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=20&section=footer" width="100%"/>
-
-## 🎯 Current Focus
+## `> roadmap.next`
 
 ```yaml
 learning:
-  - Advanced SQL query optimization
-  - Power BI DAX & data modeling
-  - Python for data analytics (Pandas/NumPy deep dive)
-
+  - Advanced SQL query optimisation
+  - Deeper DAX & data modelling patterns
+  - Data mesh architecture & DAMA-DMBOK updates
 building:
-  - SQL Interview Q&A master repository (560+ questions)
+  - SQL interview Q&A master repository
   - Personal portfolio site
-
-exploring:
-  - Data governance frameworks beyond Collibra
-  - Time series forecasting & regression in Excel/Python
-
 open_to:
-  - Data Analyst roles
-  - Data Governance Analyst roles
+  - Data Analyst
+  - Power BI Developer
+  - Data Governance Analyst
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,6,20&height=20&section=footer" width="100%"/>
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-<a href="mailto:bhagabatabrahma0106@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/bhagabata-brahma"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/bhagabatabrahma0106-dotcom"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://jerry-s-portfolio-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+### `> ping me`
+
+<a href="mailto:bhagabatabrahma0106@gmail.com"><img src="https://img.shields.io/badge/bhagabatabrahma0106@gmail.com-0A0A23?style=for-the-badge&logo=gmail&logoColor=FF00E5"/></a>
+<a href="https://linkedin.com/in/bhagabata-brahma"><img src="https://img.shields.io/badge/in/bhagabata--brahma-0A0A23?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:0A0A23&height=140&section=footer&text=//%20END%20OF%20TRANSMISSION&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-*"Data only becomes insight when someone trusts it enough to act on it."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=140&section=footer&animation=fadeIn" width="100%"/>
