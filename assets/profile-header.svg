@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" role="img" aria-labelledby="title desc">
+<title id="title">Bhagabata Brahma — Data Analyst and Power BI Developer</title>
+<desc id="desc">Dark indigo profile banner with cyan and violet highlights, and a subtle analytics grid</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset=".55" stop-color="#141930"/><stop offset="1" stop-color="#211944"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#6DECE7"/><stop offset="1" stop-color="#AE91FF"/></linearGradient>
+  <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#8398CF" stroke-width=".7" opacity=".13"/></pattern>
+</defs>
+<rect width="1200" height="272" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="272" rx="18" fill="url(#grid)"/>
+<path d="M0 224H1200" stroke="url(#accent)" stroke-width="2" opacity=".9"/>
+<rect x="49" y="46" width="5" height="163" rx="2.5" fill="url(#accent)"/>
+<text x="81" y="92" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="3.5" fill="#86ECE7">ANALYTICS • DATA QUALITY • BI</text>
+<text x="80" y="149" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" fill="#F6F8FF">Bhagabata Brahma</text>
+<text x="82" y="191" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#CBD4F0">SQL Server  /  Power BI  /  Python  /  Governance</text>
+<g stroke="url(#accent)" fill="none" stroke-width="2.1" opacity=".82">
+  <path d="M848 176L905 140L961 155L1017 91L1071 113L1134 61"/>
+  <path d="M847 211H1152" opacity=".22"/>
+  <path d="M848 211V56" opacity=".22"/>
+  <path d="M904 139V211M961 155V211M1017 91V211M1071 113V211M1134 61V211" opacity=".15"/>
+</g>
+<g fill="#6DECE7" stroke="#151B34" stroke-width="3"><circle cx="905" cy="140" r="6"/><circle cx="961" cy="155" r="6"/><circle cx="1017" cy="91" r="6"/><circle cx="1071" cy="113" r="6"/><circle cx="1134" cy="61" r="6"/></g>
+<rect x="875" y="23" width="252" height="2" fill="url(#accent)" opacity=".33" rx="1"/>
+</svg>
