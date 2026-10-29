@@ -14,7 +14,7 @@ Suggested **bio**: `Data Analyst | Power BI Developer | SQL Server • Python �
 
 Suggested **location**: `Bengaluru, India` (avoid street/postal details).
 
-Suggested **website**: `https://bhagabata-brahma-data-analyst.vercel.app/` (listed on the latest résumé; verify that the URL is working before setting as the website).
+**Current website confirmed by the owner (2026-10-29)**: `https://bhagabata-brahma-data-analyst.vercel.app/`. The README header, navigation and contact area link to this URL. Live HTTP availability could not be independently verified here. The account-level Website field must be set manually under GitHub → Your profile → Edit profile; connected repository editing cannot change account-level profile settings.
 
 Suggested **LinkedIn**: `https://www.linkedin.com/in/bhagabata-brahma/` (listed on résumé; verify handle).
 

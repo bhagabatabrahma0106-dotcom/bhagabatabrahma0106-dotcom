@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/profile-header.svg" alt="Bhagabata Brahma — Data Analytics, Business Intelligence and Data Quality" width="100%" />
+  <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="Explore Bhagabata Brahma's current data analytics portfolio">
+    <img src="assets/profile-header.svg" alt="Bhagabata Brahma — Data Analytics, Business Intelligence and Data Quality. Open the portfolio website." width="100%" />
+  </a>
 </div>
 
 # Hello, I'm Bhagabata Brahma 👋
@@ -11,6 +13,8 @@ B.Tech in Computer Science & Engineering (2026) · Bengaluru, India
 I turn complex, inconsistent data into **clear, dependable reporting**. My work spans SQL Server, Excel and Power Query, Python/pandas, Power BI and data-governance practices. I also work with Microsoft Dynamics 365 Finance & Operations (X++) through internship and trainee experience.
 
 **Exploring early-career opportunities** in Data Analysis, Business Intelligence and Data Quality / Governance.
+
+**🌐 Current portfolio:** [Explore my Data Analyst portfolio](https://bhagabata-brahma-data-analyst.vercel.app/) — the primary website for my professional work.
 
 [**Featured projects**](#featured-projects) · [**Skills**](#technical-toolkit) · [**Experience**](#experience--education) · [**LinkedIn**](https://www.linkedin.com/in/bhagabata-brahma/) · [**Portfolio**](https://bhagabata-brahma-data-analyst.vercel.app/) · [**Email**](mailto:bhagabatabrahma0106@gmail.com)
 
