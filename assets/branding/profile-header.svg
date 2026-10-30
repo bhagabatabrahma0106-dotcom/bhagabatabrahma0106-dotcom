@@ -3,7 +3,13 @@
 <desc id="description">Clean, static, clickable profile header with data analysis and Power BI specialties</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1728"/><stop offset="1" stop-color="#132F43"/></linearGradient>
-</defs>
+<style>
+@keyframes reveal {from {stroke-dashoffset:280;opacity:.6} to {stroke-dashoffset:0;opacity:1}}
+@keyframes breathe {0%,100% {opacity:.55} 50% {opacity:1}}
+.trend-line {stroke-dasharray:280;animation:reveal 4s ease-out both}
+.data-dot {animation:breathe 4s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.trend-line,.data-dot{animation:none;stroke-dasharray:none;opacity:1}}
+</style></defs>
 <rect x="1" y="1" width="1198" height="268" rx="20" fill="url(#bg)" stroke="#3E8F99" stroke-width="2"/>
 <rect x="43" y="40" width="4" height="170" rx="2" fill="#83E4D6"/>
 <text x="73" y="64" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#83E4D6">DATA ANALYTICS  /  BUSINESS INTELLIGENCE</text>
@@ -17,7 +23,7 @@
 <text x="23" y="55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A8C7D7">From source data to clear reporting</text>
 <line x1="33" y1="152" x2="303" y2="152" stroke="#416579" stroke-width="2"/>
 <g fill="#2A7593"><rect x="39" y="123" width="31" height="29" rx="4"/><rect x="85" y="109" width="31" height="43" rx="4"/><rect x="131" y="116" width="31" height="36" rx="4"/><rect x="177" y="91" width="31" height="61" rx="4"/><rect x="223" y="78" width="31" height="74" rx="4"/><rect x="269" y="68" width="31" height="84" rx="4"/></g>
-<polyline points="54,119 100,108 146,114 192,89 238,77 285,66" fill="none" stroke="#83E4D6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<g fill="#83E4D6"><circle cx="54" cy="119" r="5"/><circle cx="100" cy="108" r="5"/><circle cx="146" cy="114" r="5"/><circle cx="192" cy="89" r="5"/><circle cx="238" cy="77" r="5"/><circle cx="285" cy="66" r="5"/></g>
+<polyline class="trend-line" points="54,119 100,108 146,114 192,89 238,77 285,66" fill="none" stroke="#83E4D6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="data-dot" fill="#83E4D6"><circle cx="54" cy="119" r="5"/><circle cx="100" cy="108" r="5"/><circle cx="146" cy="114" r="5"/><circle cx="192" cy="89" r="5"/><circle cx="238" cy="77" r="5"/><circle cx="285" cy="66" r="5"/></g>
 <text x="25" y="178" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#A9C5D1">ILLUSTRATIVE WORKFLOW · NOT LIVE METRICS</text>
 </g></svg>

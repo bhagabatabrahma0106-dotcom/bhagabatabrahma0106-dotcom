@@ -59,6 +59,8 @@ Projects below link to the actual source, reports and documentation. These are i
 
 ## Technical toolkit
 
+<img src="assets/diagrams/current-focus.svg" alt="Current focus: SQL and data modeling, Power BI reporting, and data quality and governance" width="100%" />
+
 | Area | Tools and practices |
 |---|---|
 | **SQL & data modeling** | Microsoft SQL Server, T-SQL, JOINs, CTEs, window functions, validation and reporting views |

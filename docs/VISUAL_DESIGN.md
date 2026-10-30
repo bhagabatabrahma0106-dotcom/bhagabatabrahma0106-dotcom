@@ -37,3 +37,13 @@ The six visual cards remain immediately visible. The original project scope-and-
 The updated [static profile validator](../scripts/validate_profile.py) checks each visual card against its **specific** GitHub repository, primary portfolio/contact links, local image references, supported SVG markup, and the icon geometry relative to its 112 × 112 px panel. It accounts for stroke padding and expects at least 12 px of interior space around the icon. The GitHub Actions workflow executes this validator automatically.
 
 This is a static check, not an assertion that every browser or GitHub mobile layout has been pixel-tested. The README's factual claims should be reviewed when roles, projects or live URLs change.
+
+## Option A visual refinement — October 2026
+
+- The clickable hero has subtle line/dot motion that remains readable as a still image where GitHub strips SVG animation.
+- The six project cards retain the same typography, link targets and precisely centered icon geometry. Only a restrained top-right accent and accessible text encoding were polished.
+- One compact, static **Current focus** strip makes the three major skill priorities immediately visible without inventing new roles or metrics.
+- The portfolio call-to-action has a clearer, consistently stroked action area. The entire image remains linked through the README.
+- No layout-moving animations, JavaScript widgets or external graphic dependencies have been added.
+
+These files are source-controlled, text-editable SVGs; the GitHub Actions validation remains the primary static quality gate.
