@@ -11,7 +11,7 @@
  <text x="43" y="142" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#F8FCFF">Analysis</text>
  <line x1="43" y1="166" x2="540" y2="166" stroke="#33536C"/>
  <text x="43" y="196" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C4DAE7">Python  ·  Excel  ·  SQL Server</text>
- <rect x="579" y="43" width="115" height="124" rx="19" fill="#112E44" stroke="#3C6980"/>
- <g transform="translate(598 112) scale(.84)" stroke="#A5C7F5" fill="none" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-22 -18L29 -47L82 -18Z"/><path d="M-14 -10V34M6 -10V34M27 -10V34M48 -10V34M69 -10V34M-24 38H84"/></g>
- <text x="598" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#A5C7F5">VIEW PROJECT ↗</text>
+ <rect x="572" y="47" width="112" height="112" rx="18" fill="#112E44" stroke="#3C6980"/>
+ <g transform="translate(628 103) scale(0.68) translate(-30 4.5)" stroke="#A5C7F5" fill="none" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-22 -18L29 -47L82 -18Z"/><path d="M-14 -10V34M6 -10V34M27 -10V34M48 -10V34M69 -10V34M-24 38H84"/></g>
+ <text x="581" y="191" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#A5C7F5">VIEW PROJECT ↗</text>
  </svg>

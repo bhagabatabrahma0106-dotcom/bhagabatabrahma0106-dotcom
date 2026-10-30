@@ -11,7 +11,7 @@
  <text x="43" y="142" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#F8FCFF">Market Analysis</text>
  <line x1="43" y1="166" x2="540" y2="166" stroke="#33536C"/>
  <text x="43" y="196" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#C4DAE7">Python  ·  pandas  ·  SQL  ·  Power BI</text>
- <rect x="579" y="43" width="115" height="124" rx="19" fill="#112E44" stroke="#3C6980"/>
- <g transform="translate(598 112) scale(.84)" stroke="#9EBEFF" fill="none" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-22 40H82M-15 40V8H4V40M17 40V-14H37V40M49 40V-33H70V40"/></g>
- <text x="598" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#9EBEFF">VIEW PROJECT ↗</text>
+ <rect x="572" y="47" width="112" height="112" rx="18" fill="#112E44" stroke="#3C6980"/>
+ <g transform="translate(628 103) scale(0.68) translate(-30 -3.5)" stroke="#9EBEFF" fill="none" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"><path d="M-22 40H82M-15 40V8H4V40M17 40V-14H37V40M49 40V-33H70V40"/></g>
+ <text x="581" y="191" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#9EBEFF">VIEW PROJECT ↗</text>
  </svg>
