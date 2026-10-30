@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="Explore Bhagabata Brahma's current data analytics portfolio">
-    <img src="assets/profile-header.svg" alt="Bhagabata Brahma — Data Analytics, Business Intelligence and Data Quality. Open the portfolio website." width="100%" />
+    <img src="assets/branding/profile-header.svg" alt="Bhagabata Brahma — Data Analytics, Business Intelligence and Data Quality. Open the portfolio website." width="100%" />
   </a>
 </div>
 
@@ -26,19 +26,18 @@ I turn complex, inconsistent data into **clear, dependable reporting**. My work 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis" title="Open UrbanCart — Sales & Customer Analytics repository"><img src="assets/card-urbancart.svg" alt="UrbanCart — Sales &amp; Customer Analytics — Retail reporting · customers · returns" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis" title="Open Pizza Sales Performance Analysis repository"><img src="assets/card-pizza.svg" alt="Pizza Sales Performance Analysis — Revenue · AOV · product performance" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis" title="Open UrbanCart — Sales & Customer Analytics repository"><img src="assets/projects/urbancart.svg" alt="UrbanCart — Sales &amp; Customer Analytics — Retail reporting · customers · returns" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis" title="Open Pizza Sales Performance Analysis repository"><img src="assets/projects/pizza.svg" alt="Pizza Sales Performance Analysis — Revenue · AOV · product performance" width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis" title="Open EdTech App Market Analysis repository"><img src="assets/card-edtech.svg" alt="EdTech App Market Analysis — App installations · ratings · clustering" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management" title="Open SuperStore Data Management repository"><img src="assets/card-superstore.svg" alt="SuperStore Data Management — Profiling · staging · transformation" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis" title="Open EdTech App Market Analysis repository"><img src="assets/projects/edtech.svg" alt="EdTech App Market Analysis — App installations · ratings · clustering" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management" title="Open SuperStore Data Management repository"><img src="assets/projects/superstore.svg" alt="SuperStore Data Management — Profiling · staging · transformation" width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis" title="Open Banking Transaction Analysis repository"><img src="assets/card-banking.svg" alt="Banking Transaction Analysis — Transactions · cleaning · risk indicators" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O" title="Open Dynamics 365 F&O ERP Samples repository"><img src="assets/card-dynamics.svg" alt="Dynamics 365 F&amp;O ERP Samples — Customization · reporting · references" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis" title="Open Banking Transaction Analysis repository"><img src="assets/projects/banking.svg" alt="Banking Transaction Analysis — Transactions · cleaning · risk indicators" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O" title="Open Dynamics 365 F&O ERP Samples repository"><img src="assets/projects/dynamics.svg" alt="Dynamics 365 F&amp;O ERP Samples — Customization · reporting · references" width="100%" /></a></td>
   </tr>
 </table>
-
 
 Projects below link to the actual source, reports and documentation. These are independent portfolio case studies; they are not claims of production deployment.
 
@@ -55,8 +54,6 @@ Projects below link to the actual source, reports and documentation. These are i
 
 ## Technical toolkit
 
-<img src="assets/skills-overview.svg" alt="Technical toolkit: SQL and data modeling, business intelligence, data analysis, spreadsheets, quality and governance, ERP and engineering" width="100%" />
-
 
 | Area | Tools and practices |
 |---|---|
@@ -69,8 +66,6 @@ Projects below link to the actual source, reports and documentation. These are i
 
 ## Experience & education
 
-<img src="assets/career-timeline.svg" alt="Timeline: B.Tech 2022–2026, Data Gyan October 2025–February 2026, Gohra Technologies October 2025–present" width="100%" />
-
 
 **Data Analyst Intern — Data Gyan** · *Oct 2025 – Feb 2026*  
 Worked with B2B customer data, SQL validation and Power BI reporting. Résumé project highlights include profiling **5,000+ records**, removing **300+ duplicates** through cleaning workflows, and delivering **three Power BI reports**.
@@ -82,7 +77,7 @@ Experience with X++, application metadata and finance workflows, including treas
 
 ## How I approach data work
 
-<img src="assets/data-workflow.svg" alt="Analytics workflow from business question and data quality through cleaning, modeling, BI metrics and findings" width="100%" />
+<img src="assets/diagrams/data-workflow.svg" alt="Analytics workflow from business question and data quality through cleaning, modeling, BI metrics and findings" width="100%" />
 
 
 ```text
@@ -111,10 +106,9 @@ I care about **traceability, maintainability and honest documentation**. My repo
 
 <div align="center">
   <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="View the live data analytics portfolio">
-    <img src="assets/portfolio-cta.svg" alt="Explore my work beyond GitHub — open the professional portfolio" width="100%" />
+    <img src="assets/branding/portfolio-cta.svg" alt="Explore my work beyond GitHub — open the professional portfolio" width="100%" />
   </a>
 </div>
-
 
 I'm interested in thoughtful conversations about analytics projects, junior analyst opportunities, BI reporting and data quality.
 

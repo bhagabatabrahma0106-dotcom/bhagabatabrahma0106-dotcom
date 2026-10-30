@@ -1,29 +1,31 @@
-# Visual design and maintenance notes
+# GitHub profile: simplified visual design
 
-This profile has a future-friendly visual layer while preserving the original README's factual text, link destinations, section hierarchy and project table.
+The GitHub profile README keeps the **original factual text, links, and project description table**. Its illustrations are supplemental, not a replacement for accessible text.
 
-## Local assets
+## Design decisions
 
-- [Profile hero](../assets/profile-header.svg) — portfolio-linked header, names/skills from the original README.
-- [Six project cards](../assets/) — each separately linked to its corresponding GitHub repository.
-- [Skills overview](../assets/skills-overview.svg) — categories already documented in the README; no proficiency percentages are claimed.
-- [Career timeline](../assets/career-timeline.svg) — same education and employment dates as README (not an invented chronology).
-- [Data workflow](../assets/data-workflow.svg) — visual companion to the unchanged five-step text workflow.
-- [Portfolio call to action](../assets/portfolio-cta.svg) — links to the established live-portfolio URL.
+- Header text and illustration occupy separate, fixed regions; no elements are animated or repositioned.
+- Six project cards share a common layout and use **short, two-line titles** instead of dense descriptions. The original Markdown project table provides detailed context.
+- The skills and experience illustrations were removed from the README because they duplicated nearby text and added visual clutter. The original skills and career information is unchanged.
+- Only one workflow graphic and one portfolio call-to-action remain in addition to the project cards and profile header.
+- No JavaScript, external image services, fragile visitor counters or unverified KPI values are included.
+- Individual card links point to source repositories; header and portfolio CTA link to the official [portfolio](https://bhagabata-brahma-data-analyst.vercel.app/).
 
-## Motion, compatibility and accessibility
+## Asset structure
 
-The hero contains decorative SVG animation with a readable static state. **GitHub's SVG image proxy, security policies, or accessibility preferences may prevent animation from displaying.** Never rely on motion to convey important information. The hero has an accessible title/description, visual images have alt text, and the project cards remain separate clickable links. All source details remain visible in text without loading the images.
+See [assets/README.md](../assets/README.md).
 
-GitHub Markdown does not provide general JavaScript interactivity, editable web-app widgets, or custom CSS page controls. Use the hosted portfolio for richer browser interactions.
+| Asset | Path |
+| --- | --- |
+| Header | [branding/profile-header.svg](../assets/branding/profile-header.svg) |
+| Portfolio CTA | [branding/portfolio-cta.svg](../assets/branding/portfolio-cta.svg) |
+| Workflow | [diagrams/data-workflow.svg](../assets/diagrams/data-workflow.svg) |
+| Project cards | [projects/](../assets/projects/) |
 
-## Maintenance
+## Compatibility and maintenance
 
-- Preserve the existing factual claims and original project table when updating visuals.
-- Use the official repository URL for each clickable project card.
-- Do not introduce fabricated metrics, visitor counters, credentials, certifications or other unsupported claims.
-- Prefer local SVG graphics over external services.
-- Check all links and images periodically.
-- The profile repository is the target of this styling update; project repositories and external deployments were not modified.
+All illustrations are static SVGs that retain a readable state when GitHub's SVG proxy disables scripts, styling or animation. Text descriptions and repository links remain present in README prose. Do not use complex animation, animated text position or tiny metrics in the artwork.
 
-[Return to GitHub profile](../README.md).
+When updating projects, keep source descriptions accurate, test the card labels at GitHub column width (roughly half the README), and confirm the referenced files and links before committing.
+
+No project repository, executable code, data assets, dashboards, or external deployment was modified by this design change.

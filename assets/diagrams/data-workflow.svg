@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="184" viewBox="0 0 1200 184" role="img" aria-labelledby="title description">
+<title id="title">How I approach data work</title>
+<desc id="description">Five steps: business question, profile data, clean and model, BI metrics, and communicate findings</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1728"/><stop offset="1" stop-color="#132F43"/></linearGradient>
+</defs>
+
+<rect x="1" y="1" width="1198" height="182" rx="20" fill="url(#bg)" stroke="#37566D" stroke-width="2"/>
+<text x="34" y="43" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#F8FCFF">HOW I APPROACH DATA WORK</text>
+<rect x="32" y="75" width="204" height="65" rx="12" fill="#17384C" stroke="#426C7F"/>
+ <text x="47" y="99" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#83E4D6">01</text>
+ <text x="47" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#F8FCFF">Business question</text>
+ <path d="M241 108h18m-7-6 7 6-7 6" fill="none" stroke="#83E4D6" stroke-width="2.5" stroke-linejoin="round"/><rect x="270" y="75" width="204" height="65" rx="12" fill="#17384C" stroke="#426C7F"/>
+ <text x="285" y="99" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#83E4D6">02</text>
+ <text x="285" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#F8FCFF">Profile &amp; validate</text>
+ <path d="M479 108h18m-7-6 7 6-7 6" fill="none" stroke="#83E4D6" stroke-width="2.5" stroke-linejoin="round"/><rect x="508" y="75" width="204" height="65" rx="12" fill="#17384C" stroke="#426C7F"/>
+ <text x="523" y="99" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#83E4D6">03</text>
+ <text x="523" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#F8FCFF">Clean &amp; model</text>
+ <path d="M717 108h18m-7-6 7 6-7 6" fill="none" stroke="#83E4D6" stroke-width="2.5" stroke-linejoin="round"/><rect x="746" y="75" width="204" height="65" rx="12" fill="#17384C" stroke="#426C7F"/>
+ <text x="761" y="99" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#83E4D6">04</text>
+ <text x="761" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#F8FCFF">Build BI metrics</text>
+ <path d="M955 108h18m-7-6 7 6-7 6" fill="none" stroke="#83E4D6" stroke-width="2.5" stroke-linejoin="round"/><rect x="984" y="75" width="204" height="65" rx="12" fill="#17384C" stroke="#426C7F"/>
+ <text x="999" y="99" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#83E4D6">05</text>
+ <text x="999" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#F8FCFF">Explain findings</text>
+ 
+<text x="34" y="169" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#B3C8D8">Traceable workflows · Quality checks · Clear reporting · Documented limitations</text>
+</svg>
