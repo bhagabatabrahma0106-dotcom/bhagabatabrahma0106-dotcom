@@ -1,15 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" role="img" aria-labelledby="title description">
-<title id="title">Current focus — data analysis, business intelligence and data quality</title>
-<desc id="description">Three concise focus areas: SQL and data modeling; Power BI reporting; data quality and governance.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1728"/><stop offset="1" stop-color="#132F43"/></linearGradient></defs>
-<rect x="1" y="1" width="1198" height="152" rx="18" fill="url(#bg)" stroke="#37566D" stroke-width="2"/>
-<text x="34" y="40" fill="#F8FCFF" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700">CURRENT FOCUS</text>
-<text x="34" y="62" fill="#ABCAD7" font-family="Arial,Helvetica,sans-serif" font-size="14">Building dependable analysis and clear reporting</text>
-<rect x="30" y="81" width="362" height="48" rx="11" fill="#17384C" stroke="#427587"/>
-<rect x="418" y="81" width="362" height="48" rx="11" fill="#17384C" stroke="#427587"/>
-<rect x="806" y="81" width="362" height="48" rx="11" fill="#17384C" stroke="#427587"/>
-<circle cx="53" cy="105" r="6" fill="#83E4D6"/><circle cx="441" cy="105" r="6" fill="#8CB8E8"/><circle cx="829" cy="105" r="6" fill="#83E4D6"/>
-<text x="70" y="111" fill="#F0F8FA" font-family="Arial,Helvetica,sans-serif" font-size="17">SQL &amp; Data Modeling</text>
-<text x="458" y="111" fill="#F0F8FA" font-family="Arial,Helvetica,sans-serif" font-size="17">Power BI &amp; KPI Reporting</text>
-<text x="846" y="111" fill="#F0F8FA" font-family="Arial,Helvetica,sans-serif" font-size="17">Data Quality &amp; Governance</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title description">
+<title id="title">Current Focus — SQL, Power BI, and Data Quality</title>
+<desc id="description">Three spaced navy and teal graphic cards for SQL and data modeling, Power BI and KPI reporting, and data quality and governance.</desc>
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1728"/><stop offset="1" stop-color="#153449"/></linearGradient>
+<linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16364B"/><stop offset="1" stop-color="#102639"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="248" rx="20" fill="url(#background)" stroke="#3B6279" stroke-width="2"/>
+<text x="38" y="47" fill="#F4FAFD" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">CURRENT FOCUS</text>
+<text x="38" y="74" fill="#B5D0DD" font-family="Arial,Helvetica,sans-serif" font-size="16">From reliable data to clear business insights</text>
+<g>
+<rect x="32" y="102" width="366" height="114" rx="16" fill="url(#surface)" stroke="#3F7184" stroke-width="1.5"/>
+<rect x="417" y="102" width="366" height="114" rx="16" fill="url(#surface)" stroke="#3F7184" stroke-width="1.5"/>
+<rect x="802" y="102" width="366" height="114" rx="16" fill="url(#surface)" stroke="#3F7184" stroke-width="1.5"/>
+</g>
+<g stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none">
+<g stroke="#82EAD9" transform="translate(53 126)">
+<ellipse cx="19" cy="7" rx="17" ry="7"/><path d="M2 7v30c0 10 34 10 34 0V7M2 21c0 10 34 10 34 0M2 34c0 10 34 10 34 0"/>
+</g>
+<g stroke="#9DBFFF" transform="translate(438 128)">
+<path d="M1 40h41M1 40V1"/><path d="M9 31V20h7v11M22 31V10h7v21M35 31V3h7v28"/>
+</g>
+<g stroke="#82EAD9" transform="translate(824 129)">
+<path d="M5 20l11 11 22-25"/><circle cx="21" cy="22" r="20"/>
+</g>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#F4FAFD">
+<text x="108" y="154" font-size="20" font-weight="700">SQL &amp; Data Modeling</text>
+<text x="494" y="154" font-size="20" font-weight="700">Power BI &amp; KPIs</text>
+<text x="880" y="154" font-size="20" font-weight="700">Data Quality</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#B9D1DD" font-size="15">
+<text x="53" y="193">Queries · Relationships · Validation</text>
+<text x="438" y="193">DAX · Power Query · Reporting</text>
+<text x="824" y="193">Governance · Metadata · Lineage</text>
+</g>
 </svg>
