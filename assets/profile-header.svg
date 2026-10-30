@@ -1,24 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" role="img" aria-labelledby="title desc">
-<title id="title">Bhagabata Brahma — Data Analyst and Power BI Developer</title>
-<desc id="desc">Dark indigo profile banner with cyan and violet highlights, and a subtle analytics grid</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+<title id="title">Bhagabata Brahma — Data Analyst, Power BI Developer, Data Quality and Governance</title><desc id="description">Clickable profile header with a subtle animated data trend and static fallback, representing the same skills as the original profile</desc>
 <defs>
-  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset=".55" stop-color="#141930"/><stop offset="1" stop-color="#211944"/></linearGradient>
-  <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#6DECE7"/><stop offset="1" stop-color="#AE91FF"/></linearGradient>
-  <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#8398CF" stroke-width=".7" opacity=".13"/></pattern>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1426"/><stop offset=".55" stop-color="#112841"/><stop offset="1" stop-color="#0A303C"/></linearGradient>
+ <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#75F0E0"/><stop offset="1" stop-color="#7AB5FF"/></linearGradient>
+ <pattern id="mesh" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#78BFDA" opacity=".10" fill="none"/></pattern>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#000" flood-opacity=".23"/></filter>
 </defs>
-<rect width="1200" height="272" rx="18" fill="url(#bg)"/>
-<rect width="1200" height="272" rx="18" fill="url(#grid)"/>
-<path d="M0 224H1200" stroke="url(#accent)" stroke-width="2" opacity=".9"/>
-<rect x="49" y="46" width="5" height="163" rx="2.5" fill="url(#accent)"/>
-<text x="81" y="92" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="3.5" fill="#86ECE7">ANALYTICS • DATA QUALITY • BI</text>
-<text x="80" y="149" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" fill="#F6F8FF">Bhagabata Brahma</text>
-<text x="82" y="191" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#CBD4F0">SQL Server  /  Power BI  /  Python  /  Governance</text>
-<g stroke="url(#accent)" fill="none" stroke-width="2.1" opacity=".82">
-  <path d="M848 176L905 140L961 155L1017 91L1071 113L1134 61"/>
-  <path d="M847 211H1152" opacity=".22"/>
-  <path d="M848 211V56" opacity=".22"/>
-  <path d="M904 139V211M961 155V211M1017 91V211M1071 113V211M1134 61V211" opacity=".15"/>
+<style>
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:.75}}
+@keyframes slide{0%{stroke-dashoffset:260}100%{stroke-dashoffset:0}}
+@keyframes levitate{0%,100%{transform:translateY(0px)}50%{transform:translateY(-5px)}}
+.twinkle{animation:pulse 3.8s ease-in-out infinite}.trend{stroke-dasharray:260;animation:slide 4.2s ease-out both}.float{animation:levitate 5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.twinkle,.trend,.float{animation:none;stroke-dasharray:none}}
+</style>
+<rect x="1" y="1" width="1198" height="298" rx="23" fill="url(#back)" stroke="#4ECFCF" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="296" rx="22" fill="url(#mesh)"/>
+<rect x="44" y="41" width="5" height="202" rx="2.5" fill="url(#aqua)"/>
+<text x="76" y="79" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2.5" fill="#82F0E4">ANALYTICS  /  BUSINESS INTELLIGENCE  /  DATA QUALITY</text>
+<text x="74" y="148" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" fill="#F5FAFF">Bhagabata Brahma</text>
+<text x="76" y="192" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#E4ECFA">Data Analyst  ·  Power BI Developer  ·  Data Governance</text>
+<rect x="75" y="217" width="554" height="36" rx="18" fill="#0A2035" stroke="#367C94"/>
+<text x="95" y="241" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#A8E7E7">SQL Server  ·  Python  ·  Excel  ·  Power Query  ·  DAX</text>
+<g transform="translate(730 30)" class="float">
+  <rect x="0" y="3" width="425" height="240" rx="18" fill="#091C30" stroke="#326782" opacity=".97" filter="url(#shadow)"/>
+  <text x="25" y="36" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#D6F4FB">FROM DATA TO INSIGHT</text>
+  <text x="25" y="57" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#85AABD">A VISUAL REPRESENTATION OF THE ANALYTICS WORKFLOW</text>
+  <path d="M33 199H399M33 94V199" stroke="#38718A" stroke-width="1" opacity=".7"/>
+  <g fill="#2BAAD3" opacity=".42">
+    <rect x="63" y="164" width="24" height="35" rx="4"/><rect x="116" y="143" width="24" height="56" rx="4"/>
+    <rect x="169" y="151" width="24" height="48" rx="4"/><rect x="222" y="123" width="24" height="76" rx="4"/>
+    <rect x="275" y="114" width="24" height="85" rx="4"/><rect x="328" y="83" width="24" height="116" rx="4"/>
+  </g>
+  <path class="trend" d="M75 164L128 143L181 150L234 121L287 114L340 82" stroke="url(#aqua)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#8AF8E4" stroke="#08182C" stroke-width="3"><circle cx="75" cy="164" r="6"/><circle cx="128" cy="143" r="6"/><circle cx="181" cy="150" r="6"/><circle cx="234" cy="121" r="6"/><circle cx="287" cy="114" r="6"/><circle cx="340" cy="82" r="6"/></g>
+  <g class="twinkle" fill="#9EFDE9"><circle cx="383" cy="66" r="3"/><circle cx="392" cy="112" r="2.5"/><circle cx="368" cy="142" r="2.5"/></g>
+  <text x="30" y="227" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#A2BCCF">PROFILE  ·  PROJECTS  ·  TECHNICAL WORK</text>
 </g>
-<g fill="#6DECE7" stroke="#151B34" stroke-width="3"><circle cx="905" cy="140" r="6"/><circle cx="961" cy="155" r="6"/><circle cx="1017" cy="91" r="6"/><circle cx="1071" cy="113" r="6"/><circle cx="1134" cy="61" r="6"/></g>
-<rect x="875" y="23" width="252" height="2" fill="url(#accent)" opacity=".33" rx="1"/>
+<text x="75" y="283" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#A9C4D5">EXPLORE THE PORTFOLIO AND VERIFIED PROJECT REPOSITORIES</text>
 </svg>

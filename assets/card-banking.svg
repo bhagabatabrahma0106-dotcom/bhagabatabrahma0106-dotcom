@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="252" viewBox="0 0 720 252" role="img" aria-labelledby="title description">
+<title id="title">Banking Transaction Analysis visual project card</title><desc id="description">Channel activity, transaction trends, data cleaning and risk indicators</desc>
+<defs>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1426"/><stop offset=".55" stop-color="#112841"/><stop offset="1" stop-color="#0A303C"/></linearGradient>
+ <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#75F0E0"/><stop offset="1" stop-color="#7AB5FF"/></linearGradient>
+ <pattern id="mesh" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#78BFDA" opacity=".10" fill="none"/></pattern>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#000" flood-opacity=".23"/></filter>
+</defs>
+<style>
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:.75}}
+@keyframes slide{0%{stroke-dashoffset:260}100%{stroke-dashoffset:0}}
+@keyframes levitate{0%,100%{transform:translateY(0px)}50%{transform:translateY(-5px)}}
+.twinkle{animation:pulse 3.8s ease-in-out infinite}.trend{stroke-dasharray:260;animation:slide 4.2s ease-out both}.float{animation:levitate 5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.twinkle,.trend,.float{animation:none;stroke-dasharray:none}}
+</style>
+ <rect x="1.5" y="1.5" width="717" height="249" rx="23" fill="url(#back)" stroke="#98BDFF" stroke-width="3"/>
+ <path d="M34 30H142" stroke="#98BDFF" stroke-width="5" stroke-linecap="round"/>
+ <text x="40" y="49" fill="#98BDFF" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">FEATURED REPOSITORY</text>
+ <text x="39" y="73" fill="#F5FCFF" font-size="34" font-family="Arial,Helvetica,sans-serif" font-weight="700">Banking Transaction</text><text x="39" y="112" fill="#F5FCFF" font-size="34" font-family="Arial,Helvetica,sans-serif" font-weight="700">Analysis</text>
+ <text x="40" y="143" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#ADCBDB">Transactions · cleaning · risk indicators</text>
+ <rect x="37" y="173" width="460" height="34" rx="11" fill="#0D3447" stroke="#326B81"/>
+ <text x="53" y="195" fill="#BDF3EB" font-size="15" font-family="Arial,Helvetica,sans-serif">Python  ·  Excel  ·  SQL Server</text>
+ <text x="40" y="232" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#86F3DC">VIEW SOURCE &amp; DOCUMENTATION  →</text>
+ <rect x="534" y="52" width="148" height="148" rx="23" fill="#0A2437" stroke="#2B627A"/>
+ <g stroke="#A5C9FE" fill="none" stroke-width="4" stroke-linejoin="round"><path d="M556 108l55-32 54 32z" fill="#224867"/><path d="M565 115v48M588 115v48M611 115v48M634 115v48M657 115v48M555 167h113M551 176h121"/></g>
+ 
+</svg>

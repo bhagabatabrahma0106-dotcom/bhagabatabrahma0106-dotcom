@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="194" viewBox="0 0 1200 194" role="img" aria-labelledby="title description">
+<title id="title">Experience and education timeline</title><desc id="description">Visual timeline repeating the same employment and education dates from the existing README</desc>
+<defs>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1426"/><stop offset=".55" stop-color="#112841"/><stop offset="1" stop-color="#0A303C"/></linearGradient>
+ <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#75F0E0"/><stop offset="1" stop-color="#7AB5FF"/></linearGradient>
+ <pattern id="mesh" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#78BFDA" opacity=".10" fill="none"/></pattern>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#000" flood-opacity=".23"/></filter>
+</defs>
+<style>
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:.75}}
+@keyframes slide{0%{stroke-dashoffset:260}100%{stroke-dashoffset:0}}
+@keyframes levitate{0%,100%{transform:translateY(0px)}50%{transform:translateY(-5px)}}
+.twinkle{animation:pulse 3.8s ease-in-out infinite}.trend{stroke-dasharray:260;animation:slide 4.2s ease-out both}.float{animation:levitate 5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.twinkle,.trend,.float{animation:none;stroke-dasharray:none}}
+</style>
+<rect x="1" y="1" width="1198" height="192" rx="22" fill="url(#back)" stroke="#326B82"/>
+<text x="35" y="41" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#F0F7FF">EXPERIENCE &amp; EDUCATION</text>
+<path d="M117 96H1083" stroke="url(#aqua)" stroke-width="4" stroke-linecap="round"/>
+<circle cx="142" cy="96" r="10" fill="#85F0E2" stroke="#0B2337" stroke-width="4"/><circle cx="600" cy="96" r="10" fill="#85F0E2" stroke="#0B2337" stroke-width="4"/><circle cx="1048" cy="96" r="10" fill="#85F0E2" stroke="#0B2337" stroke-width="4"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="46" y="77" font-size="15" font-weight="700" fill="#F3FBFF">B.Tech · CSE</text><text x="46" y="126" font-size="13" fill="#BBDFEC">2022–2026</text><text x="46" y="146" font-size="13" fill="#9DBCCC">SSEC / BPUT</text>
+<text x="496" y="77" font-size="15" font-weight="700" fill="#F3FBFF">Data Analyst Intern</text><text x="496" y="126" font-size="13" fill="#BBDFEC">Oct 2025 – Feb 2026</text><text x="496" y="146" font-size="13" fill="#9DBCCC">Data Gyan</text>
+<text x="914" y="77" font-size="15" font-weight="700" fill="#F3FBFF">D365 F&amp;O Trainee</text><text x="914" y="126" font-size="13" fill="#BBDFEC">Oct 2025 – present</text><text x="914" y="146" font-size="13" fill="#9DBCCC">Gohra Technologies</text>
+</g>
+<text x="35" y="179" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#A9C3D6">Dates and role wording are based on the existing README; overlapping timelines are intentionally preserved.</text>
+
+</svg>
