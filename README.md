@@ -41,6 +41,9 @@ I turn complex, inconsistent data into **clear, dependable reporting**. My work 
 
 Projects below link to the actual source, reports and documentation. These are independent portfolio case studies; they are not claims of production deployment.
 
+<details>
+<summary><strong>View full project details — tools, scope and source links</strong></summary>
+
 | Project | Stack | What to explore |
 |---|---|---|
 | **[UrbanCart — Sales & Customer Analytics](https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis)** | Excel · SQL Server · Power BI | Five linked retail tables, sales KPIs, returns and channels, nine reporting views and data-quality controls |
@@ -50,10 +53,11 @@ Projects below link to the actual source, reports and documentation. These are i
 | **[Banking Transaction Analysis](https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis)** | Python · Excel · SQL Server | Channel activity, transaction trends, data cleaning and risk indicators |
 | **[Dynamics 365 F&O ERP Samples](https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O)** | X++ · Dynamics 365 F&O · SSRS | Development exports, reporting/customization examples and functional-design references |
 
+</details>
+
 **Also building:** [Interview Preparation Guide](https://github.com/bhagabatabrahma0106-dotcom/INTERVIEW-GUIDE) (React + TypeScript) · [Interactive Excel Learning Reference](https://github.com/bhagabatabrahma0106-dotcom/Excel-Advanced-Website) (React + TypeScript).
 
 ## Technical toolkit
-
 
 | Area | Tools and practices |
 |---|---|
@@ -66,7 +70,6 @@ Projects below link to the actual source, reports and documentation. These are i
 
 ## Experience & education
 
-
 **Data Analyst Intern — Data Gyan** · *Oct 2025 – Feb 2026*  
 Worked with B2B customer data, SQL validation and Power BI reporting. Résumé project highlights include profiling **5,000+ records**, removing **300+ duplicates** through cleaning workflows, and delivering **three Power BI reports**.
 
@@ -78,7 +81,6 @@ Experience with X++, application metadata and finance workflows, including treas
 ## How I approach data work
 
 <img src="assets/diagrams/data-workflow.svg" alt="Analytics workflow from business question and data quality through cleaning, modeling, BI metrics and findings" width="100%" />
-
 
 ```text
 Understand the business question
@@ -102,7 +104,6 @@ I care about **traceability, maintainability and honest documentation**. My repo
 - Better tests, READMEs and reproducible analytics pipelines
 
 ## Connect
-
 
 <div align="center">
   <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="View the live data analytics portfolio">

@@ -29,3 +29,11 @@ All illustrations are static SVGs that retain a readable state when GitHub's SVG
 When updating projects, keep source descriptions accurate, test the card labels at GitHub column width (roughly half the README), and confirm the referenced files and links before committing.
 
 No project repository, executable code, data assets, dashboards, or external deployment was modified by this design change.
+
+## Project details and quality gate
+
+The six visual cards remain immediately visible. The original project scope-and-stack table is inside an expandable **“View full project details”** block so readers can expand it without scrolling through repeated summaries. This preserves all six original project descriptions and links.
+
+The updated [static profile validator](../scripts/validate_profile.py) checks each visual card against its **specific** GitHub repository, primary portfolio/contact links, local image references, supported SVG markup, and the icon geometry relative to its 112 × 112 px panel. It accounts for stroke padding and expects at least 12 px of interior space around the icon. The GitHub Actions workflow executes this validator automatically.
+
+This is a static check, not an assertion that every browser or GitHub mobile layout has been pixel-tested. The README's factual claims should be reviewed when roles, projects or live URLs change.
