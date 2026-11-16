@@ -1,49 +1,55 @@
-# GitHub profile: simplified visual design
+# GitHub profile — premium dark analytics redesign (v2)
 
-The GitHub profile README keeps the **original factual text, links, and project description table**. Its illustrations are supplemental, not a replacement for accessible text.
+## Scope
 
-## Design decisions
+The live profile README was redesigned to follow the owner's supplied premium dark Analytics / Business Intelligence visual reference. The public GitHub README content—not GitHub's native left sidebar, top header, account bio or avatar image—has been changed.
 
-- Header text and illustration occupy separate, fixed regions; no elements are animated or repositioned.
-- Six project cards share a common layout and use **short, two-line titles** instead of dense descriptions. The original Markdown project table provides detailed context.
-- The skills and experience illustrations were removed from the README because they duplicated nearby text and added visual clutter. The original skills and career information is unchanged.
-- Only one workflow graphic and one portfolio call-to-action remain in addition to the project cards and profile header.
-- No JavaScript, external image services, fragile visitor counters or unverified KPI values are included.
-- Individual card links point to source repositories; header and portfolio CTA link to the official [portfolio](https://bhagabata-brahma-data-analyst.vercel.app/).
+The owner's actual GitHub avatar is referenced via GitHub's avatar service; no AI-generated substitute portrait was published. The three standalone portfolio website repositories were not modified.
 
-## Asset structure
+## Sections implemented
 
-See [assets/README.md](../assets/README.md).
+1. Hero and authentic avatar
+2. About me
+3. Analytics workflow
+4. Technology stack
+5. Six featured projects with verified code and documentation links
+6. Technical toolkit
+7. Five-step data-work approach
+8. Experience and education
+9. Currently exploring
+10. GitHub activity (illustrative, linked to actual profile activity)
+11. Let's connect
 
-| Asset | Path |
-| --- | --- |
-| Header | [branding/profile-header.svg](../assets/branding/profile-header.svg) |
-| Portfolio CTA | [branding/portfolio-cta.svg](../assets/branding/portfolio-cta.svg) |
-| Workflow | [diagrams/data-workflow.svg](../assets/diagrams/data-workflow.svg) |
-| Project cards | [projects/](../assets/projects/) |
+Each chart-like artwork is explicitly **illustrative**. The README does not invent contribution totals, follower counts, stars, certifications or public dashboard deployments.
 
-## Compatibility and maintenance
+## Source asset organization
 
-All illustrations are static SVGs that retain a readable state when GitHub's SVG proxy disables scripts, styling or animation. Text descriptions and repository links remain present in README prose. Do not use complex animation, animated text position or tiny metrics in the artwork.
+- `assets/v2/hero/hero-banner.svg`
+- `assets/v2/workflow/analytics-workflow.svg`
+- `assets/v2/technologies/stack.svg`
+- `assets/v2/projects/urbancart.svg`, `pizza.svg`, `edtech.svg`, `superstore.svg`, `banking.svg`, `dynamics.svg`
+- `assets/v2/workflow/approach.svg`
+- `assets/v2/banners/activity.svg`, `contact.svg`
 
-When updating projects, keep source descriptions accurate, test the card labels at GitHub column width (roughly half the README), and confirm the referenced files and links before committing.
+Legacy assets under `assets/branding/`, `assets/diagrams/` and `assets/projects/` remain present and unmodified for traceability/rollback.
 
-No project repository, executable code, data assets, dashboards, or external deployment was modified by this design change.
+## README rendering approach
 
-## Project details and quality gate
+- GitHub-compatible Markdown and supported `<a>` / `<img>` / `<details>` / basic HTML only.
+- **No custom CSS, JavaScript or custom animation** in the README.
+- Full-width stacked illustrated project cards maintain better mobile readability than the three-column Figma concept.
+- All significant identity, project and career details appear in readable Markdown, not image text alone.
+- Project cards link to actual repository paths; separate Docs links point to files named in each project README.
+- No synthetic chart is passed off as a screenshot of a running Power BI dashboard.
 
-The six visual cards remain immediately visible. The original project scope-and-stack table is inside an expandable **“View full project details”** block so readers can expand it without scrolling through repeated summaries. This preserves all six original project descriptions and links.
+## Accuracy and QA
 
-The updated [static profile validator](../scripts/validate_profile.py) checks each visual card against its **specific** GitHub repository, primary portfolio/contact links, local image references, supported SVG markup, and the icon geometry relative to its 112 × 112 px panel. It accounts for stroke padding and expects at least 12 px of interior space around the icon. The GitHub Actions workflow executes this validator automatically.
+- Role, education and experience copy retained from the existing profile README and the owner's latest instructions.
+- Education shown as Satyasai Engineering College, BPUT, 2022–2026, CGPA 8.04 per owner's supplied design brief. No transcript was checked.
+- SuperStore is described as having a screenshot/video, **not** a committed editable PBIX.
+- EdTech market-analysis source is historical sample data; UrbanCart uses synthetic retail data.
+- Dynamics F&O exports still require an appropriate licensed/authorized sandbox.
+- `python scripts/validate_profile.py` checks source file existence, profile section order, expected project card URLs, image references, SVG markup and primary contact links.
+- Static validation cannot substitute for external uptime tests, desktop/mobile visual inspection, or Power BI, SQL Server, Python or Tableau runtime execution.
 
-This is a static check, not an assertion that every browser or GitHub mobile layout has been pixel-tested. The README's factual claims should be reviewed when roles, projects or live URLs change.
-
-## Option A visual refinement — October 2026
-
-- The clickable hero has subtle line/dot motion that remains readable as a still image where GitHub strips SVG animation.
-- The six project cards retain the same typography, link targets and precisely centered icon geometry. Only a restrained top-right accent and accessible text encoding were polished.
-- One compact, static **Current focus** strip makes the three major skill priorities immediately visible without inventing new roles or metrics.
-- The portfolio call-to-action has a clearer, consistently stroked action area. The entire image remains linked through the README.
-- No layout-moving animations, JavaScript widgets or external graphic dependencies have been added.
-
-These files are source-controlled, text-editable SVGs; the GitHub Actions validation remains the primary static quality gate.
+See [design system](../design/design-system.md), [Figma-ready handoff](../design/figma-handoff.md) and [responsive guidance](../design/responsive-spec.md).
