@@ -21,6 +21,7 @@ PROJECTS = {
     "banking": "Python-Data_Anlysis",
     "dynamics": "ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O",
 }
+ANIMATION = "assets/v2/animations/analytics-flow.gif"
 SVG_ASSETS = [
     "assets/v2/hero/hero-banner.svg",
     "assets/v2/workflow/analytics-workflow.svg",
@@ -35,7 +36,7 @@ REQUIRED = [
     ".github/workflows/validate-profile.yml",
     "design/design-system.md", "design/figma-handoff.md",
     "design/responsive-spec.md", "design/portfolio-site-plan.md",
-] + SVG_ASSETS
+] + SVG_ASSETS + [ANIMATION]
 HEADINGS = [
     "About me", "Analytics workflow", "Technology stack", "Featured projects",
     "Technical toolkit", "How I approach data work", "Experience & education",
@@ -76,6 +77,10 @@ def validate():
         if url not in readme:
             ISSUES.append(f"Missing primary contact URL: {url}")
 
+    if "avatars.githubusercontent.com" in readme:
+        ISSUES.append("The hero must not include a duplicate profile portrait")
+    if readme.count(ANIMATION) != 1:
+        ISSUES.append("Missing or duplicated optional workflow GIF reference")
     if readme.count("<details>") != readme.count("</details>"):
         ISSUES.append("Unbalanced expandable details blocks")
     if re.search(r"<(script|style|iframe|object|form)\b", readme, re.I):
@@ -129,6 +134,63 @@ def validate():
             parsed = urlparse(href)
             if parsed.scheme != "https" or not parsed.netloc:
                 ISSUES.append(f"Unsafe external link: {href}")
+
+    # GIF is optional to view, but the referenced asset must be valid and modest in size.
+    gif = (ROOT / ANIMATION).read_bytes()
+    if not gif.startswith((b"GIF89a", b"GIF87a")) or not gif.endswith(b";"):
+        ISSUES.append("Workflow motion asset is not a valid GIF container")
+    if len(gif) > 350_000:
+        ISSUES.append("Optional workflow GIF exceeds 350 KB size budget")
+    if len(gif) < 20 or int.from_bytes(gif[6:8], "little") != 480 or int.from_bytes(gif[8:10], "little") != 70:
+        ISSUES.append("Workflow GIF has unexpected dimensions")
+    if gif.count(b"\\x21\\xF9\\x04") < 2:
+        ISSUES.append("Workflow GIF does not appear to have multiple frames")
+
+    # Conservative text-boundary checks on the current artwork.
+    # This checks gross geometry only; a rasterized browser review is still needed.
+    def estimated_text_width(value, font_size):
+        units = 0.0
+        for ch in value:
+            if ch in "ilI|!.,:; '":
+                units += 0.29
+            elif ch in "MW@%&":
+                units += 0.86
+            elif ch.isupper():
+                units += 0.69
+            elif ch in "fjrt":
+                units += 0.43
+            else:
+                units += 0.58
+        return units * font_size * 1.10
+
+    for relative in SVG_ASSETS:
+        svg = ET.parse(ROOT / relative).getroot()
+        parts = [float(x) for x in svg.get("viewBox", "").split()]
+        if len(parts) != 4:
+            continue
+        width = parts[2]
+        for node in svg.iter():
+            if local(node.tag) != "text":
+                continue
+            x = float(node.get("x", "0"))
+            font_size = float(node.get("font-size", "16"))
+            content = "".join(node.itertext())
+            text_width = estimated_text_width(content, font_size)
+            anchor = node.get("text-anchor", "start")
+            left = x - text_width if anchor == "end" else (x - text_width / 2 if anchor == "middle" else x)
+            right = left + text_width
+            if left < 7 or right > width - 7:
+                ISSUES.append(
+                    f"Potential text clipping: {relative}: {content[:50]!r}"
+                )
+            if "/projects/" in relative and x < 625 and right > 628:
+                ISSUES.append(
+                    f"Project label intrudes into chart zone: {relative}: {content[:50]!r}"
+                )
+            if "/hero/" in relative and x < 650 and right > 665:
+                ISSUES.append(
+                    f"Hero label intrudes into illustration zone: {content[:50]!r}"
+                )
 
     for f in sorted((ROOT / "assets").rglob("*.svg")):
         try:
