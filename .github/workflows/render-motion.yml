@@ -1,0 +1,37 @@
+name: Build MP4 motion companions
+
+on:
+  push:
+    branches:
+      - feat/premium-profile-redesign
+    paths:
+      - 'assets/animations/*.gif'
+      - '.github/workflows/render-motion.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Confirm media converter availability
+        run: ffmpeg -version | head -n 1
+      - name: Render three H.264 MP4 companions from committed GIF sources
+        run: |
+          set -euo pipefail
+          ffmpeg -hide_banner -loglevel error -y -ignore_loop 1 -i assets/animations/analytics-workflow.gif -t 9 -vf 'fps=12,scale=960:288:flags=neighbor,format=yuv420p' -c:v libx264 -preset medium -crf 28 -movflags +faststart assets/animations/analytics-workflow.mp4
+          ffmpeg -hide_banner -loglevel error -y -ignore_loop 1 -i assets/animations/data-quality.gif -t 8.1 -vf 'fps=12,scale=960:288:flags=neighbor,format=yuv420p' -c:v libx264 -preset medium -crf 28 -movflags +faststart assets/animations/data-quality.mp4
+          ffmpeg -hide_banner -loglevel error -y -ignore_loop 1 -i assets/animations/sql-to-dashboard.gif -t 8 -vf 'fps=12,scale=960:288:flags=neighbor,format=yuv420p' -c:v libx264 -preset medium -crf 28 -movflags +faststart assets/animations/sql-to-dashboard.mp4
+          for file in assets/animations/*.mp4; do
+            ffprobe -v error -show_entries format=duration,size -of default=noprint_wrappers=1 "$file"
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: brahma-analytics-motion-mp4
+          path: assets/animations/*.mp4
+          if-no-files-found: error
+          retention-days: 30
