@@ -78,11 +78,11 @@ def validate():
 
     if readme.count("<details>") != readme.count("</details>"):
         ISSUES.append("Unbalanced expandable details blocks")
-    if re.search(r"<(script|style|iframe|object|form)\\b", readme, re.I):
+    if re.search(r"<(script|style|iframe|object|form)\b", readme, re.I):
         ISSUES.append("Unsupported or unsafe HTML element in README")
 
     pairs = re.findall(
-        r'<a\\s+href="([^"]+)"[^>]*>\\s*<img\\s+src="([^"]+)"',
+        r'<a\s+href="([^"]+)"[^>]*>\s*<img\s+src="([^"]+)"',
         readme, re.S,
     )
     linked_cards = [
@@ -112,7 +112,7 @@ def validate():
         if f"{BASE}/{name}" not in readme:
             ISSUES.append(f"Related project link missing: {name}")
 
-    for src in re.findall(r'<img\\b[^>]*\\bsrc="([^"]+)"', readme):
+    for src in re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', readme):
         if src.startswith("assets/"):
             f = ROOT / src
             if not f.is_file() or f.stat().st_size == 0:
@@ -124,7 +124,7 @@ def validate():
         else:
             ISSUES.append(f"Unexpected image reference: {src}")
 
-    for href in re.findall(r'<a\\b[^>]*\\bhref="([^"]+)"', readme):
+    for href in re.findall(r'<a\b[^>]*\bhref="([^"]+)"', readme):
         if href.startswith("http"):
             parsed = urlparse(href)
             if parsed.scheme != "https" or not parsed.netloc:
