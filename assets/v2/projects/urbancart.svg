@@ -1,14 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="276" viewBox="0 0 1000 276" role="img" aria-labelledby="title description"><title id="title">UrbanCart project card</title><desc id="description">RETAIL ANALYTICS: Sales, customers, returns and channels. Tools: Excel  ·  SQL Server  ·  Power BI. Charts are illustrative artwork, not actual report screenshots.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1124"/><stop offset=".55" stop-color="#151438"/><stop offset="1" stop-color="#082744"/></linearGradient><linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#4F46E5"/></linearGradient><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient><linearGradient id="soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171638"/><stop offset="1" stop-color="#101A2E"/></linearGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14"/></filter></defs><rect x="1" y="1" width="998" height="274" rx="19" fill="url(#bg)" stroke="#7C3AED" stroke-width="2"/>
+<rect x="24" y="29" width="594" height="232" rx="15" fill="#080E1C" opacity=".9"/>
+<path d="M634 38V239" stroke="#45527A" stroke-width="2" opacity=".85"/>
 <circle cx="55" cy="55" r="22" fill="#7C3AED" opacity=".27"/>
 <text x="40" y="63" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#B28AFF" font-weight="800" >01</text>
 <text x="40" y="110" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#B28AFF" font-weight="800" letter-spacing="2">RETAIL ANALYTICS</text>
-<text x="40" y="163" font-family="Arial,Helvetica,sans-serif" font-size="48" fill="#F8FAFC" font-weight="800" >UrbanCart</text>
-<text x="41" y="203" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#D7E2F3" font-weight="500" >Sales, customers, returns and channels</text>
+<text x="40" y="163" font-family="Arial,Helvetica,sans-serif" font-size="43" fill="#F8FAFC" font-weight="800" >UrbanCart</text>
+<text x="41" y="203" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#D7E2F3" font-weight="500" >Sales, customers, returns and channels</text>
 <rect x="38" y="226" width="548" height="29" rx="10" fill="#121B37" stroke="#38466B" stroke-width="1.5"/>
-<text x="52" y="246" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#BFCEE6" font-weight="600" >Excel  ·  SQL Server  ·  Power BI</text>
+<text x="52" y="246" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#E5EBF7" font-weight="600" >Excel  ·  SQL Server  ·  Power BI</text>
 <!-- Abstract charts; illustrations, not reported business figures -->
 <rect x="650" y="36" width="317" height="204" rx="15" fill="#0B162F" stroke="#334575" stroke-width="1.5"/>
-<text x="671" y="62" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#96ADD3" font-weight="700" >ANALYTICS VIEW · ILLUSTRATIVE</text>
+<text x="671" y="62" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#B5C9E9" font-weight="700" >ILLUSTRATIVE DASHBOARD VIEW</text>
 <path d="M672 202H947M672 163H947M672 124H947M672 85H947" stroke="#263957" stroke-width="1"/>
 <rect x="687" y="179" width="19" height="32" rx="4" fill="#7C3AED" opacity="0.9"/><rect x="722" y="160" width="19" height="51" rx="4" fill="#B28AFF" opacity="0.7"/><rect x="757" y="141" width="19" height="70" rx="4" fill="#7C3AED" opacity="0.9"/><rect x="792" y="122" width="19" height="89" rx="4" fill="#B28AFF" opacity="0.7"/><rect x="827" y="103" width="19" height="108" rx="4" fill="#7C3AED" opacity="0.9"/><rect x="862" y="166" width="19" height="45" rx="4" fill="#B28AFF" opacity="0.7"/><rect x="897" y="147" width="19" height="64" rx="4" fill="#7C3AED" opacity="0.9"/>
 <path d="M687 160L721 145L756 158L790 126L825 134L860 104L894 116" fill="none" stroke="#B28AFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
