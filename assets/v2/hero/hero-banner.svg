@@ -1,20 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description"><title id="title">Bhagabata Brahma premium analytics portfolio hero</title><desc id="description">Static dark purple and cyan hero with role statement and an illustrative dashboard laptop</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1124"/><stop offset=".55" stop-color="#151438"/><stop offset="1" stop-color="#082744"/></linearGradient><linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#4F46E5"/></linearGradient><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient><linearGradient id="soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171638"/><stop offset="1" stop-color="#101A2E"/></linearGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14"/></filter></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description"><title id="title">Bhagabata Brahma premium analytics portfolio hero</title><desc id="description">Static dark purple and cyan hero with role statement and an illustrative dashboard laptop — portrait-free, high-contrast version</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1124"/><stop offset=".55" stop-color="#151438"/><stop offset="1" stop-color="#082744"/></linearGradient><linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#4F46E5"/></linearGradient><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient><linearGradient id="soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171638"/><stop offset="1" stop-color="#101A2E"/></linearGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14"/></filter></defs>
 <rect x="1" y="1" width="1198" height="358" rx="25" fill="url(#bg)" stroke="#4145AA" stroke-width="2"/>
 <ellipse cx="1050" cy="85" rx="230" ry="105" fill="#7C3AED" opacity=".22" filter="url(#glow)"/>
 <ellipse cx="1110" cy="318" rx="210" ry="75" fill="#22D3EE" opacity=".2" filter="url(#glow)"/>
 <path d="M8 308C210 205 314 410 520 310S910 380 1192 260" stroke="#7C3AED" stroke-width="2" opacity=".4" fill="none"/>
+<rect x="26" y="77" width="619" height="219" rx="20" fill="#080E1C" opacity=".83"/>
 <rect x="40" y="35" width="325" height="30" rx="15" fill="#27194C" stroke="#59439A" stroke-width="1.5"/>
 <text x="58" y="56" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#D7C8FF" font-weight="700" letter-spacing="1">BRAHMA-ANALYTICS · DATA PORTFOLIO</text>
-<text x="42" y="131" font-family="Arial,Helvetica,sans-serif" font-size="59" fill="#F8FAFC" font-weight="500" >Bhagabata Brahma</text>
-<text x="44" y="172" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#E2E8F0" font-weight="600" >Data Analyst  |  Power BI Developer</text>
+<text x="42" y="131" font-family="Arial,Helvetica,sans-serif" font-size="54" fill="#F8FAFC" font-weight="700" >Bhagabata Brahma</text>
+<text x="44" y="172" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#E2E8F0" font-weight="600" >Data Analyst  |  Power BI Developer</text>
 <text x="44" y="207" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#C4B5FD" font-weight="600" >Data Quality &amp; Governance</text>
 <rect x="44" y="228" width="4" height="61" rx="2" fill="#8B5CF6"/>
-<text x="62" y="251" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#E2E8F0" font-weight="500" >Turning complex data into dependable,</text>
-<text x="62" y="280" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#E2E8F0" font-weight="500" >decision-ready business insights.</text>
-<rect x="44" y="303" width="168" height="35" rx="11" fill="url(#purple)" stroke="#A78BFA" stroke-width="1.5"/>
-<text x="68" y="327" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" letter-spacing=".7">EXPLORE WORK</text>
-<rect x="225" y="303" width="179" height="35" rx="11" fill="#111B38" stroke="#6268B6" stroke-width="1.5"/>
-<text x="248" y="327" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#E2E8F0" font-weight="700" >SIX CASE STUDIES</text>
+<text x="62" y="251" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#E2E8F0" font-weight="500" >Turning complex data into dependable,</text>
+<text x="62" y="280" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#E2E8F0" font-weight="500" >decision-ready business insights.</text>
+<path d="M45 307H603" stroke="#6354AD" stroke-width="2" opacity=".75"/>
+<text x="45" y="334" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#C5CFF2" font-weight="700" letter-spacing="1">SQL SERVER  ·  POWER BI  ·  PYTHON  ·  DATA QUALITY</text>
 <!-- Laptop and illustrative dashboard -->
 <path d="M728 286L806 98L1071 107L1110 287Z" fill="#0F1735" stroke="#7866E2" stroke-width="5"/>
 <path d="M806 99L1069 109L1095 271L751 263Z" fill="#101C3A" stroke="#38477C" stroke-width="2"/>
