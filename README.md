@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/253719999?v=4" alt="Current GitHub profile portrait for Bhagabata Brahma" width="120" />
-
-  <br />
-
   <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="Open Bhagabata Brahma's portfolio">
     <img src="assets/v2/hero/hero-banner.svg" alt="Bhagabata Brahma — Data Analyst, Power BI Developer and Data Quality & Governance. Premium dark analytics-themed banner with an illustrative dashboard." width="100%" />
   </a>
@@ -34,6 +30,16 @@ I enjoy translating business questions into structured datasets, validated metri
 ## 🔄 Analytics workflow
 
 <img src="assets/v2/workflow/analytics-workflow.svg" alt="Five-stage analytics workflow: Collect, Clean, Model, Visualize and Decide" width="100%" />
+
+<details>
+<summary><strong>Watch the optional data-flow animation</strong></summary>
+
+<img src="assets/v2/animations/analytics-flow.gif" alt="Optional animated illustration: a glowing indicator progresses through five numbered analytics stages" width="480" />
+
+<sub>This short animation is illustrative, not live business data. The static workflow above contains the full stage labels and remains readable without motion.</sub>
+
+</details>
+
 
 **Collect → Clean → Model → Visualize → Decide.** I connect the business question to source-data quality, transparent transformations, useful metrics and a clear decision narrative.
 
