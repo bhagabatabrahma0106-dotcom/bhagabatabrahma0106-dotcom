@@ -1,6 +1,6 @@
 # Brahma-Analytics — design system v2
 
-**Purpose:** premium, readable dark analytics identity for the GitHub profile README, derived from the supplied visual reference. Static SVGs are illustrations, not actual Power BI screens or business metrics. The real GitHub profile avatar is used separately in README.
+**Purpose:** premium, readable dark analytics identity for the GitHub profile README, derived from the supplied visual reference. Static SVGs are illustrations, not actual Power BI screens or business metrics. The GitHub account's native profile avatar is retained outside the README; no duplicate portrait appears in the hero.
 
 ## Tokens
 
@@ -25,7 +25,7 @@
 
 | Component | Figma desktop base | Figma mobile behavior | Source asset / README |
 |---|---|---|---|
-| Hero | 1200 × 360 SVG, 24 radius | Full width image, followed by live-text intro and avatar | `assets/v2/hero/hero-banner.svg` |
+| Hero | 1200 × 360 SVG, 24 radius | Full width image, followed by live-text intro; no extra avatar | `assets/v2/hero/hero-banner.svg` |
 | Workflow | 1200 × 194 SVG | Textual five-stage fallback below illustration | `assets/v2/workflow/analytics-workflow.svg` |
 | Technology group | 1200 × 250 SVG | Accessible Markdown tool list below graphic | `assets/v2/technologies/stack.svg` |
 | Project card | 1000 × 276 SVG | **Single column** to keep title legible on GitHub mobile | `assets/v2/projects/{name}.svg` |
@@ -46,3 +46,12 @@ Portfolio website *plan only* (not implemented): links have default / hover / fo
 - Preserve source README descriptions and disclaimers.
 - Validate SVG XML; no `script`, `foreignObject`, external fonts, external SVG images, CSS animations or native JavaScript.
 - Keep logos illustrative rather than misrepresenting brand ownership or certification.
+
+## 2026-11-16 refinement: text-safe layout and motion
+
+- Added dark inset panels behind hero, project and contact copy to prevent decorative graphics competing with labels.
+- Reduced extra-large titles and project descriptions slightly and tightened contact CTA text to stay within its border.
+- Removed the duplicate portrait from README; GitHub's native profile avatar stays unchanged.
+- Added an **optional, collapsed by default** 480 × 70 px, 10-frame illustrated GIF at `assets/v2/animations/analytics-flow.gif`. The static workflow is always the default visual and has complete textual labels. The GIF is not a measured business chart.
+- GIFs do not automatically honor reduced-motion settings inside GitHub README, so motion is opt-in through a details disclosure. SVGs remain static.
+- GitHub Actions static validator now verifies source image references, a GIF signature, file budget, and conservative SVG label boundaries. It does **not** replace visual browser testing.
