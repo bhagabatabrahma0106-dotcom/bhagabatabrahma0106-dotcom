@@ -143,7 +143,7 @@ def validate():
         ISSUES.append("Optional workflow GIF exceeds 350 KB size budget")
     if len(gif) < 20 or int.from_bytes(gif[6:8], "little") != 480 or int.from_bytes(gif[8:10], "little") != 70:
         ISSUES.append("Workflow GIF has unexpected dimensions")
-    if gif.count(b"\\x21\\xF9\\x04") < 2:
+    if gif.count(bytes((0x21, 0xF9, 0x04))) < 2:
         ISSUES.append("Workflow GIF does not appear to have multiple frames")
 
     # Conservative text-boundary checks on the current artwork.
