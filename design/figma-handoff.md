@@ -12,7 +12,7 @@ This is an **editable design specification and SVG source package**, **not** a n
 
 ## Components
 
-**Hero:** title, role, descriptive phrase and illustrative laptop chart (left copy/right chart). Real avatar is a separate user-owned GitHub profile photo linked by GitHub avatar URL in README. Do not replace or synthesize a person's face.
+**Hero:** title, role, descriptive phrase and illustrative laptop chart (left copy/right chart). GitHub's own profile avatar remains in the native profile sidebar; the README hero intentionally does not duplicate a portrait. Do not synthesize the owner's face.
 
 **Project card:** title, category, one-line business scope, tool line, decorative chart; real source/docs links are outside image in accessible Markdown. **Do not** add a demo link unless a real public demo is independently verified.
 
@@ -29,3 +29,7 @@ SVG paths are in `assets/v2/`. They can be imported into Figma as vector images 
 - Education in profile matches the repository's currently published detail: Satyasai Engineering College, BPUT, 2022–2026, CGPA 8.04. This is not independent verification of an academic transcript.
 - No new awards, certifications, engagement totals, stars, deployments or work tenure.
 - All three portfolio-site repositories remain out of scope.
+
+## Refinement and optional motion
+
+The implementation now has dedicated opaque copy panels and conservative text-fit margins. The hero removes visual faux buttons because README graphics are not interactive controls. The GitHub profile's native photo remains unchanged. A subtle GIF version of five-step flow is available under an optional collapsed section (static SVG always visible), without JS or custom README CSS.
