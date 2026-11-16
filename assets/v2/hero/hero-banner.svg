@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description"><title id="title">Bhagabata Brahma premium analytics portfolio hero</title><desc id="description">Static dark purple and cyan hero with role statement and an illustrative dashboard laptop</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1124"/><stop offset=".55" stop-color="#151438"/><stop offset="1" stop-color="#082744"/></linearGradient><linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#4F46E5"/></linearGradient><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient><linearGradient id="soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171638"/><stop offset="1" stop-color="#101A2E"/></linearGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14"/></filter></defs>
+<rect x="1" y="1" width="1198" height="358" rx="25" fill="url(#bg)" stroke="#4145AA" stroke-width="2"/>
+<ellipse cx="1050" cy="85" rx="230" ry="105" fill="#7C3AED" opacity=".22" filter="url(#glow)"/>
+<ellipse cx="1110" cy="318" rx="210" ry="75" fill="#22D3EE" opacity=".2" filter="url(#glow)"/>
+<path d="M8 308C210 205 314 410 520 310S910 380 1192 260" stroke="#7C3AED" stroke-width="2" opacity=".4" fill="none"/>
+<rect x="40" y="35" width="325" height="30" rx="15" fill="#27194C" stroke="#59439A" stroke-width="1.5"/>
+<text x="58" y="56" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#D7C8FF" font-weight="700" letter-spacing="1">BRAHMA-ANALYTICS · DATA PORTFOLIO</text>
+<text x="42" y="131" font-family="Arial,Helvetica,sans-serif" font-size="59" fill="#F8FAFC" font-weight="500" >Bhagabata Brahma</text>
+<text x="44" y="172" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#E2E8F0" font-weight="600" >Data Analyst  |  Power BI Developer</text>
+<text x="44" y="207" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#C4B5FD" font-weight="600" >Data Quality &amp; Governance</text>
+<rect x="44" y="228" width="4" height="61" rx="2" fill="#8B5CF6"/>
+<text x="62" y="251" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#E2E8F0" font-weight="500" >Turning complex data into dependable,</text>
+<text x="62" y="280" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#E2E8F0" font-weight="500" >decision-ready business insights.</text>
+<rect x="44" y="303" width="168" height="35" rx="11" fill="url(#purple)" stroke="#A78BFA" stroke-width="1.5"/>
+<text x="68" y="327" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#FFFFFF" font-weight="700" letter-spacing=".7">EXPLORE WORK</text>
+<rect x="225" y="303" width="179" height="35" rx="11" fill="#111B38" stroke="#6268B6" stroke-width="1.5"/>
+<text x="248" y="327" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#E2E8F0" font-weight="700" >SIX CASE STUDIES</text>
+<!-- Laptop and illustrative dashboard -->
+<path d="M728 286L806 98L1071 107L1110 287Z" fill="#0F1735" stroke="#7866E2" stroke-width="5"/>
+<path d="M806 99L1069 109L1095 271L751 263Z" fill="#101C3A" stroke="#38477C" stroke-width="2"/>
+<rect x="790" y="140" width="260" height="108" rx="12" fill="#0A1530" stroke="#2E426E" stroke-width="1.5"/>
+<text x="806" y="161" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8EAED2" font-weight="700" >REVENUE MIX · ILLUSTRATIVE</text>
+<rect x="819" y="220" width="18" height="6" rx="4" fill="#F59E0B" opacity=".95"/><rect x="852" y="193" width="18" height="33" rx="4" fill="#7C3AED" opacity=".95"/><rect x="885" y="204" width="18" height="22" rx="4" fill="#22D3EE" opacity=".95"/><rect x="918" y="177" width="18" height="49" rx="4" fill="#F59E0B" opacity=".95"/><rect x="951" y="188" width="18" height="38" rx="4" fill="#7C3AED" opacity=".95"/><rect x="984" y="161" width="18" height="65" rx="4" fill="#22D3EE" opacity=".95"/>
+<path d="M817 204L851 196L884 202L917 178L949 188L982 162L1014 170" fill="none" stroke="#7C3AED" stroke-width="3" stroke-linecap="round"/>
+<path d="M708 287L1113 287L1153 314L680 314Z" fill="#4F46A7" stroke="#6D64CE" stroke-width="3"/>
+<path d="M687 314L1151 314L1133 326L702 326Z" fill="#111A38"/>
+<rect x="722" y="60" width="71" height="68" rx="15" fill="#241B57" stroke="#7254CC" stroke-width="1.5"/>
+<text x="739" y="105" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#F0DFFF" font-weight="800" >SQL</text>
+<rect x="1074" y="56" width="79" height="69" rx="15" fill="#143E66" stroke="#2CB8EF" stroke-width="1.5"/>
+<text x="1093" y="99" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#F7D15C" font-weight="800" >Py</text>
+<rect x="1087" y="195" width="78" height="70" rx="16" fill="#113C36" stroke="#22B589" stroke-width="1.5"/>
+<text x="1106" y="240" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#72F5BE" font-weight="800" >XL</text>
+<path d="M775 97C825 22 975 15 1109 57M1079 256C1052 299 973 326 888 311" fill="none" stroke="#38BDF8" stroke-width="2" opacity=".55" stroke-dasharray="8 9"/>
+<text x="1172" y="342" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#94A3B8" font-weight="600" text-anchor="end">STATIC VISUAL · NOT LIVE METRICS</text></svg>
