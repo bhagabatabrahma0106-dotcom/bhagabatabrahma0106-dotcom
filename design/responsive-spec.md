@@ -23,10 +23,14 @@ Hero → About me → Analytics workflow → Technology stack → Featured proje
 - All image tags have descriptive `alt`.
 - Key content is repeated as accessible live text, not only embedded in SVG.
 - Do not use tables for the whole layout or embed custom CSS.
-- Keep official GitHub avatar as a profile photo; no AI-generated substitute.
+- Keep the official GitHub account avatar in GitHub's native sidebar; do not duplicate it in README or use an AI-generated substitute.
 - Represent missing demos as no link, not as a fake clickable action.
 - Charts and heatmaps inside artwork are clearly labeled illustrative.
 
 ## Verification
 
 Run `python scripts/validate_profile.py` after checkout. This validates structural Markdown, linked project cards, local assets and SVG safety. It does **not** perform browser pixel-diff checks, external uptime checks or Power BI / SQL / Python / Tableau runtime execution.
+
+## Optional motion
+
+An illustrative, looping GIF appears only in a `<details>` section, collapsed by default. The primary workflow image remains a static SVG and all five steps appear in Markdown. This avoids forcing autoplaying animation into the main reading flow; GitHub README itself cannot apply a custom reduced-motion media query.
