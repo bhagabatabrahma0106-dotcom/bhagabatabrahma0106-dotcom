@@ -1,120 +1,168 @@
 <div align="center">
-  <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="Explore Bhagabata Brahma's current data analytics portfolio">
-    <img src="assets/branding/profile-header.svg" alt="Bhagabata Brahma — Data Analytics, Business Intelligence and Data Quality. Open the portfolio website." width="100%" />
+
+  <img src="https://avatars.githubusercontent.com/u/253719999?v=4" alt="Current GitHub profile portrait for Bhagabata Brahma" width="120" />
+
+  <br />
+
+  <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="Open Bhagabata Brahma's portfolio">
+    <img src="assets/v2/hero/hero-banner.svg" alt="Bhagabata Brahma — Data Analyst, Power BI Developer and Data Quality & Governance. Premium dark analytics-themed banner with an illustrative dashboard." width="100%" />
   </a>
+
+  <p><strong>Data Analyst · Power BI Developer · Data Quality & Governance</strong></p>
+
+  <p>SQL Server & T-SQL · Power BI & DAX · Excel · Python · Data Quality · Dynamics 365 F&O</p>
+
+  <p>
+    <a href="#featured-projects"><strong>Featured projects</strong></a> ·
+    <a href="#technology-stack">Technology stack</a> ·
+    <a href="#experience--education">Experience</a> ·
+    <a href="https://www.linkedin.com/in/bhagabata-brahma/">LinkedIn</a> ·
+    <a href="https://bhagabata-brahma-data-analyst.vercel.app/">Portfolio</a> ·
+    <a href="mailto:bhagabatabrahma0106@gmail.com">Email</a>
+  </p>
+
 </div>
 
-# Hello, I'm Bhagabata Brahma 👋
+## 👋 About me
 
-**Data Analyst · Power BI Developer · Data Quality & Governance**
+I'm **Bhagabata Brahma**, a Computer Science & Engineering graduate focused on building **clear, dependable and explainable analytics**. My project work covers SQL Server, Power BI, DAX, Power Query, Excel and Python. I also explore data quality, governance, metadata and **Microsoft Dynamics 365 Finance & Operations (X++)**.
 
-B.Tech in Computer Science & Engineering (2026) · Bengaluru, India
+I enjoy translating business questions into structured datasets, validated metrics, and reporting that people can understand and act on. My repositories document what was built, what is reproducible and what still requires a local tool or environment.
 
-I turn complex, inconsistent data into **clear, dependable reporting**. My work spans SQL Server, Excel and Power Query, Python/pandas, Power BI and data-governance practices. I also work with Microsoft Dynamics 365 Finance & Operations (X++) through internship and trainee experience.
+**Professional focus:** Early-career opportunities in **Data Analysis, Business Intelligence, Power BI reporting and Data Quality / Governance**.
 
-**Exploring early-career opportunities** in Data Analysis, Business Intelligence and Data Quality / Governance.
+## 🔄 Analytics workflow
 
-**🌐 Current portfolio:** [Explore my Data Analyst portfolio](https://bhagabata-brahma-data-analyst.vercel.app/) — the primary website for my professional work.
+<img src="assets/v2/workflow/analytics-workflow.svg" alt="Five-stage analytics workflow: Collect, Clean, Model, Visualize and Decide" width="100%" />
 
-[**Featured projects**](#featured-projects) · [**Skills**](#technical-toolkit) · [**Experience**](#experience--education) · [**LinkedIn**](https://www.linkedin.com/in/bhagabata-brahma/) · [**Portfolio**](https://bhagabata-brahma-data-analyst.vercel.app/) · [**Email**](mailto:bhagabatabrahma0106@gmail.com)
+**Collect → Clean → Model → Visualize → Decide.** I connect the business question to source-data quality, transparent transformations, useful metrics and a clear decision narrative.
 
----
+## 🧰 Technology stack
 
-## Featured projects
+<img src="assets/v2/technologies/stack.svg" alt="Visual technology map showing SQL Server and T-SQL, Power BI with DAX and Power Query, Excel, Python, data quality, data governance, Dynamics 365 F&O and X++" width="100%" />
 
-<div align="center"><sub>Click any visual card to open its source repository; the detailed project descriptions remain below.</sub></div>
+| Specialization | Technologies and practices |
+|---|---|
+| **Databases & SQL** | Microsoft SQL Server, T-SQL, joins, CTEs, window functions, views and query validation |
+| **Business intelligence** | Power BI Desktop, DAX, Power Query, data modeling, reports and KPI definitions |
+| **Spreadsheets** | Advanced Excel, PivotTables, XLOOKUP, SUMIFS, data cleanup and reporting |
+| **Python analytics** | Python, pandas, NumPy, Matplotlib, Jupyter and exploratory analysis |
+| **Data quality & governance** | Profiling, completeness, deduplication, metadata, lineage and stewardship concepts |
+| **ERP development** | Dynamics 365 Finance & Operations, X++ artifacts, SSRS concepts and functional design |
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis" title="Open UrbanCart — Sales & Customer Analytics repository"><img src="assets/projects/urbancart.svg" alt="UrbanCart — Sales &amp; Customer Analytics — Retail reporting · customers · returns" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis" title="Open Pizza Sales Performance Analysis repository"><img src="assets/projects/pizza.svg" alt="Pizza Sales Performance Analysis — Revenue · AOV · product performance" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis" title="Open EdTech App Market Analysis repository"><img src="assets/projects/edtech.svg" alt="EdTech App Market Analysis — App installations · ratings · clustering" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management" title="Open SuperStore Data Management repository"><img src="assets/projects/superstore.svg" alt="SuperStore Data Management — Profiling · staging · transformation" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis" title="Open Banking Transaction Analysis repository"><img src="assets/projects/banking.svg" alt="Banking Transaction Analysis — Transactions · cleaning · risk indicators" width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O" title="Open Dynamics 365 F&O ERP Samples repository"><img src="assets/projects/dynamics.svg" alt="Dynamics 365 F&amp;O ERP Samples — Customization · reporting · references" width="100%" /></a></td>
-  </tr>
-</table>
+## 🚀 Featured projects
 
-Projects below link to the actual source, reports and documentation. These are independent portfolio case studies; they are not claims of production deployment.
+**Six independent portfolio case studies.** The charts on these cards are original *illustrative artwork*, not screenshots of verified running dashboards. Each card links to an accessible source repository; documentation links lead to actual files. No unverified live demo is claimed.
+
+### 01 · UrbanCart — Retail Analytics
+
+<a href="https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis" title="UrbanCart source repository"><img src="assets/v2/projects/urbancart.svg" alt="Illustrated UrbanCart retail analytics project card: Excel, SQL Server and Power BI" width="100%" /></a>
+
+**Sales, customers, returns and channels** using a **synthetic retail dataset**, SQL reporting views and a Power BI report package. Data-quality concerns and local refresh dependencies are documented.
+
+**[Source code](https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis)** · **[Setup & documentation](https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis/blob/main/docs/SETUP.md)**
+
+### 02 · Pizza Sales — Performance Analysis
+
+<a href="https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis" title="Pizza Sales source repository"><img src="assets/v2/projects/pizza.svg" alt="Illustrated Pizza Sales performance analysis project card: T-SQL and Power BI" width="100%" /></a>
+
+Analyzes **sales value, orders, product performance and category/size mix** using transactional CSV data, T-SQL analysis and a Power BI report.
+
+**[Source code](https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis)** · **[Reproduction guide](https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis/blob/main/docs/REPRODUCTION.md)**
+
+### 03 · EdTech App — Market Analysis
+
+<a href="https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis" title="EdTech App source repository"><img src="assets/v2/projects/edtech.svg" alt="Illustrated EdTech App market analysis project card: Python, pandas, SQL and Power BI" width="100%" /></a>
+
+Explores a **historical sample of education-related mobile apps** through installs, reviews, ratings, Python visualizations, K-Means clustering and SQL reporting.
+
+**[Source code](https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis)** · **[Reproduction guide](https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis/blob/main/docs/REPRODUCTION.md)**
+
+### 04 · SuperStore — Data Management
+
+<a href="https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management" title="SuperStore source repository"><img src="assets/v2/projects/superstore.svg" alt="Illustrated SuperStore data management project card: Python, SQL Server and Excel" width="100%" /></a>
+
+Documents an **extract → clean → model → analyze** workflow using Excel/CSV, a Python notebook and SQL Server. The repository provides a **dashboard image and recorded demonstration**, not an editable dashboard file.
+
+**[Source code](https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management)** · **[Reproduction guide](https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management/blob/main/docs/REPRODUCTION.md)** · **[Recorded dashboard walkthrough](https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management/blob/main/assets/DataManagement_DashboardLiveVideo.mp4)**
+
+### 05 · Banking Transaction Analysis
+
+<a href="https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis" title="Banking Transaction Analysis source repository"><img src="assets/v2/projects/banking.svg" alt="Illustrated banking transaction analysis project card: Python, Excel and SQL Server" width="100%" /></a>
+
+Examines **transaction types, channels, monthly patterns and exploratory risk indicators**. The sample-based analysis does not claim fraud detection or production deployment.
+
+**[Source code](https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis)** · **[Reproduction guide](https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis/blob/main/docs/REPRODUCTION.md)**
+
+### 06 · Dynamics 365 F&O — ERP Samples
+
+<a href="https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O" title="Dynamics 365 F&O source repository"><img src="assets/v2/projects/dynamics.svg" alt="Illustrated Dynamics 365 Finance and Operations project card: X++ exports and SSRS concepts" width="100%" /></a>
+
+A collection of **Dynamics 365 Finance & Operations / X++ exports**, reporting-related material, customization examples and a functional design reference. Imports, compilation and deployment require an authorized F&O sandbox.
+
+**[Source code](https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O)** · **[Setup & review](https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O/blob/main/docs/SETUP_AND_REVIEW.md)**
 
 <details>
-<summary><strong>View full project details — tools, scope and source links</strong></summary>
+<summary><strong>Compare all six projects by stack and scope</strong></summary>
 
-| Project | Stack | What to explore |
+| Project | Stack | Evidence available |
 |---|---|---|
-| **[UrbanCart — Sales & Customer Analytics](https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis)** | Excel · SQL Server · Power BI | Five linked retail tables, sales KPIs, returns and channels, nine reporting views and data-quality controls |
-| **[Pizza Sales Performance Analysis](https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis)** | T-SQL · Power BI | Revenue, AOV, order patterns, category/size mix and best-selling products |
-| **[EdTech App Market Analysis](https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis)** | Python · pandas · SQL · Power BI | App installations, ratings and K-Means clustering, with notebooks and prepared datasets |
-| **[SuperStore Data Management](https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management)** | Python · SQL Server · Excel | Profiling, staging, transformation and reporting workflows with dashboard demonstration |
-| **[Banking Transaction Analysis](https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis)** | Python · Excel · SQL Server | Channel activity, transaction trends, data cleaning and risk indicators |
-| **[Dynamics 365 F&O ERP Samples](https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O)** | X++ · Dynamics 365 F&O · SSRS | Development exports, reporting/customization examples and functional-design references |
+| UrbanCart | Excel · SQL Server · Power BI | Synthetic retail data, SQL views, PBIX and documentation |
+| Pizza Sales | T-SQL · Power BI | Transactional CSV, T-SQL, PBIX and report guide |
+| EdTech App | Python · pandas · SQL · Power BI | Notebook, sample CSV, clustering outputs, PBIX |
+| SuperStore | Python · SQL Server · Excel | Notebook, SQL, dashboard screenshot and video |
+| Banking Transactions | Python · Excel · SQL Server | Notebook, sample workbook and T-SQL |
+| Dynamics 365 F&O | X++ · Dynamics 365 F&O · SSRS | .axpp exports, design document and review notes |
 
 </details>
 
-**Also building:** [Interview Preparation Guide](https://github.com/bhagabatabrahma0106-dotcom/INTERVIEW-GUIDE) (React + TypeScript) · [Interactive Excel Learning Reference](https://github.com/bhagabatabrahma0106-dotcom/Excel-Advanced-Website) (React + TypeScript).
+**More learning projects:** [Interview Preparation Guide](https://github.com/bhagabatabrahma0106-dotcom/INTERVIEW-GUIDE) · [Advanced Excel Learning Reference](https://github.com/bhagabatabrahma0106-dotcom/Excel-Advanced-Website) · [All GitHub repositories](https://github.com/bhagabatabrahma0106-dotcom?tab=repositories).
 
-## Technical toolkit
+## 🛠️ Technical toolkit
 
-<img src="assets/diagrams/current-focus.svg" alt="Current focus: SQL and data modeling, Power BI reporting, and data quality and governance" width="100%" />
+My day-to-day analytical toolkit combines **SQL analysis**, **BI data modeling**, **Excel preparation**, **Python exploration**, and **documented data-quality checks**. Git and GitHub support versioning and reproducibility; Dynamics 365 F&O and X++ are a separate ERP development skill area.
 
-| Area | Tools and practices |
-|---|---|
-| **SQL & data modeling** | Microsoft SQL Server, T-SQL, JOINs, CTEs, window functions, validation and reporting views |
-| **Business intelligence** | Power BI Desktop, DAX, Power Query, KPI design, interactive report development |
-| **Data analysis** | Python, pandas, NumPy, data cleaning, EDA and exploratory clustering |
-| **Spreadsheets** | Advanced Excel, PivotTables, XLOOKUP, SUMIFS, Google Sheets |
-| **Data quality & governance** | Data profiling, deduplication, completeness checks, metadata, lineage, business glossaries and stewardship concepts |
-| **ERP & engineering** | Dynamics 365 Finance & Operations, X++, Git/GitHub, introductory React and TypeScript |
+**Representative activities:** writing readable SQL queries, reconciling source and output totals, shaping Power Query transformations, defining DAX measures, checking missing/duplicate records and documenting assumptions.
 
-## Experience & education
+## 🎯 How I approach data work
+
+<img src="assets/v2/workflow/approach.svg" alt="Five-step data approach: Define question; Profile and validate; Clean and model; Build KPIs; Communicate insights" width="100%" />
+
+1. **Define the question:** Clarify stakeholders, decisions, metric definitions and reporting grain.
+2. **Profile and validate:** Review completeness, types, duplicates, outliers and source limitations.
+3. **Clean and model:** Prepare data with SQL, Excel / Power Query or Python; describe transformations.
+4. **Build useful KPIs:** Create explainable measures and visuals, and check them against source totals.
+5. **Communicate insights:** Present findings, caveats and recommended next steps without overclaiming.
+
+## 🎓 Experience & education
 
 **Data Analyst Intern — Data Gyan** · *Oct 2025 – Feb 2026*  
-Worked with B2B customer data, SQL validation and Power BI reporting. Résumé project highlights include profiling **5,000+ records**, removing **300+ duplicates** through cleaning workflows, and delivering **three Power BI reports**.
+Worked with B2B customer data, SQL validation and Power BI reporting. The existing résumé-backed project summary describes profiling **5,000+ records**, removing **300+ duplicates** through cleaning workflows and preparing **three Power BI reports**.
 
-**Finance Operations / Dynamics 365 F&O Intern → Trainee — Gohra Technologies** · *Oct 2025 – present*  
-Experience with X++, application metadata and finance workflows, including treasury-related data structures, lifecycle processes and reconciliation-focused reporting. Completed an initial internship period before moving into training.
+**Finance Operations / Dynamics 365 F&O Intern → Trainee — Gohra Technologies** · *Oct 2025 – present (as listed in the source README)*  
+Hands-on with **X++**, application metadata, Dynamics 365 F&O finance workflows, treasury-related data structures and reconciliation-oriented reporting. Environment-specific implementation is not represented as a public deployed client system.
 
 **B.Tech — Computer Science & Engineering** · *Satyasai Engineering College, BPUT · 2022–2026 · CGPA 8.04*
 
-## How I approach data work
+## 📚 Currently exploring
 
-<img src="assets/diagrams/data-workflow.svg" alt="Analytics workflow from business question and data quality through cleaning, modeling, BI metrics and findings" width="100%" />
+- SQL Server query optimization, relational modeling and efficient reporting queries
+- Advanced DAX, Power BI semantic models and trustworthy KPI design
+- Data governance, metadata, lineage and data quality practices
+- Reproducible analytics projects, tests and clearer project READMEs
 
-```text
-Understand the business question
-          ↓
-Profile source data and document assumptions
-          ↓
-Clean, validate and model using Excel / Python / SQL
-          ↓
-Create reproducible metrics and Power BI views
-          ↓
-Explain findings, quality limitations and next steps
-```
+## 📊 GitHub activity
 
-I care about **traceability, maintainability and honest documentation**. My repositories distinguish the source files that are available from the tools or environments still needed to reproduce an analysis.
+<a href="https://github.com/bhagabatabrahma0106-dotcom" title="Open the actual GitHub contribution and repository activity"><img src="assets/v2/banners/activity.svg" alt="Decorative analytics grid marked illustrative; visit the linked GitHub profile for real activity" width="100%" /></a>
 
-## Currently exploring
+For **actual commits, contributions, repository activity and pinned projects**, visit my [GitHub profile](https://github.com/bhagabatabrahma0106-dotcom). The graphic above does **not** represent measured activity.
 
-- SQL Server query optimization and practical data-modeling patterns
-- Power BI / DAX modeling and trustworthy KPI design
-- Data governance, metadata and lineage
-- Better tests, READMEs and reproducible analytics pipelines
+## 🤝 Let's connect
 
-## Connect
+<a href="https://www.linkedin.com/in/bhagabata-brahma/" title="Connect with Bhagabata Brahma on LinkedIn"><img src="assets/v2/banners/contact.svg" alt="Illustrated Let's Connect banner for data analytics, BI and governance opportunities" width="100%" /></a>
 
-<div align="center">
-  <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="View the live data analytics portfolio">
-    <img src="assets/branding/portfolio-cta.svg" alt="Explore my work beyond GitHub — open the professional portfolio" width="100%" />
-  </a>
-</div>
-
-I'm interested in thoughtful conversations about analytics projects, junior analyst opportunities, BI reporting and data quality.
+I'm open to conversations about **Data Analyst**, **Power BI / BI reporting**, **SQL** and **Data Quality & Governance** roles.
 
 **[LinkedIn](https://www.linkedin.com/in/bhagabata-brahma/)** · **[Portfolio](https://bhagabata-brahma-data-analyst.vercel.app/)** · **[Email](mailto:bhagabatabrahma0106@gmail.com)**
 
-<sub>This profile highlights work evidenced by my résumé and public repositories. Some dashboards require local SQL Server or Power BI connections for complete reproduction. No fabricated years of professional experience or unverified certifications are claimed.</sub>
+<sub>Portfolio case studies and decorative chart graphics are not production performance claims. SQL Server, Power BI, Dynamics 365 F&O, Tableau and Python projects may require local software, data-source configuration or runtime checks that static GitHub validation cannot provide. See the <a href="design/figma-handoff.md">Figma-ready handoff</a> and <a href="design/responsive-spec.md">responsive design notes</a> for the implementation specification.</sub>
