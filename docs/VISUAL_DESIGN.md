@@ -4,11 +4,11 @@
 
 The live profile README was redesigned to follow the owner's supplied premium dark Analytics / Business Intelligence visual reference. The public GitHub README content—not GitHub's native left sidebar, top header, account bio or avatar image—has been changed.
 
-The owner's actual GitHub avatar is referenced via GitHub's avatar service; no AI-generated substitute portrait was published. The three standalone portfolio website repositories were not modified.
+The native GitHub profile avatar remains unchanged. A duplicate avatar previously placed above the README hero was removed so the content starts directly with the professional banner. The three standalone portfolio website repositories were not modified.
 
 ## Sections implemented
 
-1. Hero and authentic avatar
+1. Portrait-free hero (native GitHub sidebar avatar remains)
 2. About me
 3. Analytics workflow
 4. Technology stack
@@ -53,3 +53,12 @@ Legacy assets under `assets/branding/`, `assets/diagrams/` and `assets/projects/
 - Static validation cannot substitute for external uptime tests, desktop/mobile visual inspection, or Power BI, SQL Server, Python or Tableau runtime execution.
 
 See [design system](../design/design-system.md), [Figma-ready handoff](../design/figma-handoff.md) and [responsive guidance](../design/responsive-spec.md).
+
+## Refinement after visual-review feedback — November 16, 2026
+
+- Removed the extra README portrait and fake static CTA buttons in the hero.
+- Gave hero/project/contact copy a more solid dark safe zone so decorations do not show through text.
+- Rebalanced all six project cards consistently; refined typography and chart separation.
+- Adjusted technology card labels to reduce clipping and improved the contact CTA text fit.
+- Added an optional workflow GIF `assets/v2/animations/analytics-flow.gif`. It is collapsed by default and supplements, never replaces, the static labeled workflow.
+- Added static SVG text-boundary checks and GIF header/size validation to profile CI. A passing check does not demonstrate pixel-perfect GitHub rendering on every device.
