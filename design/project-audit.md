@@ -89,7 +89,7 @@ Original main branch, all README history, all legacy `assets/`, existing six sou
 - [x] Inspect six project destinations from profile
 - [x] Inspect live website's framework, README, package and key component architecture
 - [x] Create dedicated feature branches
-- [ ] Generate/verify new assets
-- [ ] Implement branch-only README/website changes
-- [ ] Run checks and resolve failures
-- [ ] Write final delivery report with evidence and limitations
+- [x] Generate and validate new assets
+- [x] Implement branch-only README/website changes
+- [x] Run static and browser checks; correct failures
+- [x] Write final delivery report with evidence and limitations
