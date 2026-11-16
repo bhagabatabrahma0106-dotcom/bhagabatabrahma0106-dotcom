@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="209" viewBox="0 0 1200 209" role="img" aria-labelledby="title description"><title id="title">Let's connect</title><desc id="description">Call to connect about analytics, reporting and data governance opportunities</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1124"/><stop offset=".55" stop-color="#151438"/><stop offset="1" stop-color="#082744"/></linearGradient><linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#4F46E5"/></linearGradient><linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#14B8A6"/></linearGradient><linearGradient id="soft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171638"/><stop offset="1" stop-color="#101A2E"/></linearGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="14"/></filter></defs><rect x="1" y="1" width="1198" height="207" rx="23" fill="url(#bg)" stroke="#7651D8" stroke-width="2"/>
 <ellipse cx="170" cy="110" rx="150" ry="94" fill="#7C3AED" opacity=".23" filter="url(#glow)"/>
 <path d="M10 166C210 54 325 250 550 158S930 206 1185 110" stroke="#6D5EEA" stroke-width="3" opacity=".7" fill="none"/>
+<rect x="202" y="38" width="618" height="132" rx="17" fill="#080E1C" opacity=".76"/>
 <rect x="51" y="46" width="126" height="111" rx="14" fill="#121C3B" stroke="#7053C2" stroke-width="1.5"/>
 <path d="M86 93l-18 14 18 15m55-29 18 14-18 15m-24-40-13 47" stroke="#A78BFA" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="219" y="84" font-family="Arial,Helvetica,sans-serif" font-size="40" fill="#FFFFFF" font-weight="800" >LET'S CONNECT</text>
 <text x="221" y="124" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#D7DFF0" font-weight="500" >Open to opportunities in Analytics, BI Reporting,</text>
 <text x="221" y="152" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#D7DFF0" font-weight="500" >Data Quality and Governance.</text>
-<rect x="887" y="70" width="244" height="62" rx="14" fill="url(#purple)" stroke="#AF9CFF" stroke-width="1.5"/>
-<text x="923" y="109" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#FFFFFF" font-weight="800" >LET'S COLLABORATE</text>
+<rect x="880" y="70" width="277" height="62" rx="14" fill="url(#purple)" stroke="#AF9CFF" stroke-width="1.5"/>
+<text x="905" y="109" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#FFFFFF" font-weight="800" >LET'S COLLABORATE</text>
 <text x="1170" y="187" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#97B1DE" font-weight="700" text-anchor="end">LINKEDIN · PORTFOLIO · EMAIL</text></svg>
