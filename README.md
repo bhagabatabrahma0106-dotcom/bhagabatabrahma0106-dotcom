@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://bhagabata-brahma-data-analyst.vercel.app/" title="Open Bhagabata Brahma's portfolio">
-    <img src="assets/v2/hero/hero-banner.svg" alt="Bhagabata Brahma — Data Analyst, Power BI Developer and Data Quality & Governance. Premium dark analytics-themed banner with an illustrative dashboard." width="100%" />
+    <img src="assets/hero/analytics-banner.svg" alt="Bhagabata Brahma — Data Analyst, Power BI Developer and Data Quality & Governance. Portrait-free, midnight-blue portfolio banner with a separate high-contrast text panel and illustrative laptop dashboard." width="100%" />
   </a>
 
   <p><strong>Data Analyst · Power BI Developer · Data Quality & Governance</strong></p>
@@ -29,23 +29,43 @@ I enjoy translating business questions into structured datasets, validated metri
 
 ## 🔄 Analytics workflow
 
-<img src="assets/v2/workflow/analytics-workflow.svg" alt="Five-stage analytics workflow: Collect, Clean, Model, Visualize and Decide" width="100%" />
+<img src="assets/workflow/analytics-flow.svg" alt="Five-stage analytics workflow: Collect, Clean, Model, Visualize and Decide" width="100%" />
 
 <details>
-<summary><strong>Watch the optional data-flow animation</strong></summary>
+<summary><strong>Explore the 9-second analytics workflow animation (optional)</strong></summary>
 
-<img src="assets/v2/animations/analytics-flow.gif" alt="Optional animated illustration: a glowing indicator progresses through five numbered analytics stages" width="480" />
+<img src="assets/animations/analytics-workflow.gif" width="500" alt="Illustrative animation of data moving through collect, clean, model, visualize and decide. No live metrics." />
 
-<sub>This short animation is illustrative, not live business data. The static workflow above contains the full stage labels and remains readable without motion.</sub>
+[Static PNG alternative](assets/animations/analytics-workflow.png) · [Five-stage diagram](assets/workflow/analytics-flow.svg)
 
 </details>
 
 
 **Collect → Clean → Model → Visualize → Decide.** I connect the business question to source-data quality, transparent transformations, useful metrics and a clear decision narrative.
 
+
+<details>
+<summary><strong>More motion studies: Data Quality and SQL-to-Dashboard</strong></summary>
+
+### Data quality inspection — 8.1 seconds
+
+<img src="assets/animations/data-quality.gif" width="500" alt="Illustrative animation of records being checked for completeness, uniqueness, accuracy, consistency and validity." />
+
+[Static fallback](assets/animations/data-quality.png) · [Labeled principles](assets/workflow/data-quality.svg)
+
+### SQL Server to Power BI — 8 seconds
+
+<img src="assets/animations/sql-to-dashboard.gif" width="500" alt="Illustrative workflow showing SQL query, data rows, transformation and a dashboard building." />
+
+[Static fallback](assets/animations/sql-to-dashboard.png) · [Labeled diagram](assets/workflow/sql-to-dashboard.svg)
+
+*The animations illustrate workflow concepts. They do not demonstrate a live production system or report measured business results. Static images are provided for readers who prefer no motion.*
+
+</details>
+
 ## 🧰 Technology stack
 
-<img src="assets/v2/technologies/stack.svg" alt="Visual technology map showing SQL Server and T-SQL, Power BI with DAX and Power Query, Excel, Python, data quality, data governance, Dynamics 365 F&O and X++" width="100%" />
+<img src="assets/technologies/toolkit.svg" alt="Visual technology map showing SQL Server and T-SQL, Power BI with DAX and Power Query, Excel, Python, data quality, data governance, Dynamics 365 F&O and X++" width="100%" />
 
 | Specialization | Technologies and practices |
 |---|---|
@@ -62,7 +82,7 @@ I enjoy translating business questions into structured datasets, validated metri
 
 ### 01 · UrbanCart — Retail Analytics
 
-<a href="https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis" title="UrbanCart source repository"><img src="assets/v2/projects/urbancart.svg" alt="Illustrated UrbanCart retail analytics project card: Excel, SQL Server and Power BI" width="100%" /></a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/UrbanCartAnalysis" title="UrbanCart source repository"><img src="assets/projects/urbancart-premium.svg" alt="Illustrated UrbanCart retail analytics project card: Excel, SQL Server and Power BI" width="100%" /></a>
 
 **Sales, customers, returns and channels** using a **synthetic retail dataset**, SQL reporting views and a Power BI report package. Data-quality concerns and local refresh dependencies are documented.
 
@@ -70,7 +90,7 @@ I enjoy translating business questions into structured datasets, validated metri
 
 ### 02 · Pizza Sales — Performance Analysis
 
-<a href="https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis" title="Pizza Sales source repository"><img src="assets/v2/projects/pizza.svg" alt="Illustrated Pizza Sales performance analysis project card: T-SQL and Power BI" width="100%" /></a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/Pizza_Sales_Analysis" title="Pizza Sales source repository"><img src="assets/projects/pizza-sales-premium.svg" alt="Illustrated Pizza Sales performance analysis project card: T-SQL and Power BI" width="100%" /></a>
 
 Analyzes **sales value, orders, product performance and category/size mix** using transactional CSV data, T-SQL analysis and a Power BI report.
 
@@ -78,7 +98,7 @@ Analyzes **sales value, orders, product performance and category/size mix** usin
 
 ### 03 · EdTech App — Market Analysis
 
-<a href="https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis" title="EdTech App source repository"><img src="assets/v2/projects/edtech.svg" alt="Illustrated EdTech App market analysis project card: Python, pandas, SQL and Power BI" width="100%" /></a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/EdTech-Analysis" title="EdTech App source repository"><img src="assets/projects/edtech-premium.svg" alt="Illustrated EdTech App market analysis project card: Python, pandas, SQL and Power BI" width="100%" /></a>
 
 Explores a **historical sample of education-related mobile apps** through installs, reviews, ratings, Python visualizations, K-Means clustering and SQL reporting.
 
@@ -86,7 +106,7 @@ Explores a **historical sample of education-related mobile apps** through instal
 
 ### 04 · SuperStore — Data Management
 
-<a href="https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management" title="SuperStore source repository"><img src="assets/v2/projects/superstore.svg" alt="Illustrated SuperStore data management project card: Python, SQL Server and Excel" width="100%" /></a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/End-To-End-Data-Management" title="SuperStore source repository"><img src="assets/projects/superstore-premium.svg" alt="Illustrated SuperStore data management project card: Python, SQL Server and Excel" width="100%" /></a>
 
 Documents an **extract → clean → model → analyze** workflow using Excel/CSV, a Python notebook and SQL Server. The repository provides a **dashboard image and recorded demonstration**, not an editable dashboard file.
 
@@ -94,7 +114,7 @@ Documents an **extract → clean → model → analyze** workflow using Excel/CS
 
 ### 05 · Banking Transaction Analysis
 
-<a href="https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis" title="Banking Transaction Analysis source repository"><img src="assets/v2/projects/banking.svg" alt="Illustrated banking transaction analysis project card: Python, Excel and SQL Server" width="100%" /></a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/Python-Data_Anlysis" title="Banking Transaction Analysis source repository"><img src="assets/projects/banking-premium.svg" alt="Illustrated banking transaction analysis project card: Python, Excel and SQL Server" width="100%" /></a>
 
 Examines **transaction types, channels, monthly patterns and exploratory risk indicators**. The sample-based analysis does not claim fraud detection or production deployment.
 
@@ -102,7 +122,7 @@ Examines **transaction types, channels, monthly patterns and exploratory risk in
 
 ### 06 · Dynamics 365 F&O — ERP Samples
 
-<a href="https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O" title="Dynamics 365 F&O source repository"><img src="assets/v2/projects/dynamics.svg" alt="Illustrated Dynamics 365 Finance and Operations project card: X++ exports and SSRS concepts" width="100%" /></a>
+<a href="https://github.com/bhagabatabrahma0106-dotcom/ERP-Reporting-Data-Analysis-using-Microsoft-Dynamics-365-F-O" title="Dynamics 365 F&O source repository"><img src="assets/projects/dynamics-365-fo-premium.svg" alt="Illustrated Dynamics 365 Finance and Operations project card: X++ exports and SSRS concepts" width="100%" /></a>
 
 A collection of **Dynamics 365 Finance & Operations / X++ exports**, reporting-related material, customization examples and a functional design reference. Imports, compilation and deployment require an authorized F&O sandbox.
 
@@ -165,7 +185,7 @@ For **actual commits, contributions, repository activity and pinned projects**, 
 
 ## 🤝 Let's connect
 
-<a href="https://www.linkedin.com/in/bhagabata-brahma/" title="Connect with Bhagabata Brahma on LinkedIn"><img src="assets/v2/banners/contact.svg" alt="Illustrated Let's Connect banner for data analytics, BI and governance opportunities" width="100%" /></a>
+<a href="https://www.linkedin.com/in/bhagabata-brahma/" title="Connect with Bhagabata Brahma on LinkedIn"><img src="assets/banners/contact-premium.svg" alt="Illustrated Let's Connect banner for data analytics, BI and governance opportunities" width="100%" /></a>
 
 I'm open to conversations about **Data Analyst**, **Power BI / BI reporting**, **SQL** and **Data Quality & Governance** roles.
 

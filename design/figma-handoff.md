@@ -33,3 +33,7 @@ SVG paths are in `assets/v2/`. They can be imported into Figma as vector images 
 ## Refinement and optional motion
 
 The implementation now has dedicated opaque copy panels and conservative text-fit margins. The hero removes visual faux buttons because README graphics are not interactive controls. The GitHub profile's native photo remains unchanged. A subtle GIF version of five-step flow is available under an optional collapsed section (static SVG always visible), without JS or custom README CSS.
+
+## v3 frame and component handoff
+
+Full reusable component coordinates, variants and colors are in [component-library.md](component-library.md). Import the new SVGs from `assets/hero/`, `assets/projects/`, `assets/workflow/` and `assets/banners/` into frames **1440 desktop** and **390 mobile**. The native GitHub avatar/sidebar are intentionally excluded. The supplied rendered mockup informs the visual direction; it is not a Figma file or evidence of real business statistics. Current deliverable: Figma-ready source and specifications only.

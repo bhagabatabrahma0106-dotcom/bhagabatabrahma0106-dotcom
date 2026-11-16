@@ -34,3 +34,16 @@ Run `python scripts/validate_profile.py` after checkout. This validates structur
 ## Optional motion
 
 An illustrative, looping GIF appears only in a `<details>` section, collapsed by default. The primary workflow image remains a static SVG and all five steps appear in Markdown. This avoids forcing autoplaying animation into the main reading flow; GitHub README itself cannot apply a custom reduced-motion media query.
+
+## v3 viewport matrix
+
+| Viewport | Profile README expectation | Interactive website expectation |
+|---|---|---|
+| 1440px | GitHub controls column width; wide SVGs fluid | Two-column hero, three-column project grid |
+| 1366px | Fluid SVGs and stacked cards | Two-column hero, three-column project grid |
+| 1024px | Fluid project cards | Hero may stack, two-column project grid |
+| 768px | Full-width SVG cards | Single hero column, two-column project grid |
+| 390px | Stack every card; live text below SVG | One-column project grid, controls remain ≥44px |
+| 360px | No fixed HTML table layout | One-column, wrapped chips and headings |
+
+The website feature branch implements the new premium sections with Tailwind and Framer Motion. The browser viewports above are design targets, **not claims of completed browser testing**. Reduced-motion is implemented in the website component; the README uses static diagrams with GIFs hidden in collapsed disclosures.

@@ -1,0 +1,35 @@
+name: Premium profile media and link integrity
+
+on:
+  push:
+    branches:
+      - feat/premium-profile-redesign
+    paths:
+      - README.md
+      - assets/**
+      - design/**
+      - scripts/**
+      - .github/workflows/premium-profile-qa.yml
+  pull_request:
+    paths:
+      - README.md
+      - assets/**
+      - design/**
+      - scripts/**
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image decoder used for real file validation
+        run: python -m pip install --disable-pip-version-check Pillow
+      - name: Validate links and decode every new PNG/GIF
+        run: python scripts/validate_premium.py
