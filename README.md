@@ -152,7 +152,7 @@ My day-to-day analytical toolkit combines **SQL analysis**, **BI data modeling**
 
 ## 🎯 How I approach data work
 
-<img src="assets/workflow/sql-to-dashboard.svg" alt="Five-step data approach: Define question; Profile and validate; Clean and model; Build KPIs; Communicate insights" width="100%" />
+<img src="assets/v2/workflow/approach.svg" alt="Five-step data approach: Define question; Profile and validate; Clean and model; Build KPIs; Communicate insights" width="100%" />
 
 1. **Define the question:** Clarify stakeholders, decisions, metric definitions and reporting grain.
 2. **Profile and validate:** Review completeness, types, duplicates, outliers and source limitations.

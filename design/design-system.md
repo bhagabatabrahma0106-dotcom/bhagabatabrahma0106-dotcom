@@ -55,3 +55,7 @@ Portfolio website *plan only* (not implemented): links have default / hover / fo
 - Added an **optional, collapsed by default** 480 × 70 px, 10-frame illustrated GIF at `assets/v2/animations/analytics-flow.gif`. The static workflow is always the default visual and has complete textual labels. The GIF is not a measured business chart.
 - GIFs do not automatically honor reduced-motion settings inside GitHub README, so motion is opt-in through a details disclosure. SVGs remain static.
 - GitHub Actions static validator now verifies source image references, a GIF signature, file budget, and conservative SVG label boundaries. It does **not** replace visual browser testing.
+
+## v3 source-backed premium system (November 16, 2026)
+
+The current work-in-review uses `assets/hero/`, `assets/projects/*-premium.svg`, `assets/workflow/`, `assets/technologies/`, and `assets/banners/`. See [Component Library](component-library.md). The earlier v2 assets remain untouched for rollback. Text is always separated from illustrations by opaque dark panels. PNG variants exist as fallbacks; the primary README uses SVG sources for crisp rendering. A real site browser review is not implied by these structural rules.

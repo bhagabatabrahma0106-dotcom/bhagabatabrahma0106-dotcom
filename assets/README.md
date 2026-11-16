@@ -30,3 +30,13 @@ Do not alter the standalone portfolio website repositories as part of profile ar
 ## Motion and contrast
 
 The GIF is 480 × 70 px and is collapsed by default in README, where the static workflow stays visible. No custom JS, external image service or animated SVG is required. All essential copy has a high-contrast dark area behind it so the graphics do not cover labels.
+
+## New v3 source and fallback library
+
+- `hero/analytics-banner.{svg,png}`, `hero/analytics-banner-dark.{svg,png}`, and `hero/analytics-banner-mobile.{svg,png}`.
+- `projects/{urbancart,pizza-sales,edtech,superstore,banking,dynamics-365-fo}-premium.svg` plus matching PNG fallbacks without the `-premium` suffix.
+- `workflow/{analytics-flow,data-quality,sql-to-dashboard}.svg` are readable static process diagrams.
+- `animations/{analytics-workflow,data-quality,sql-to-dashboard}.{gif,png}` provide optional 9/8.1/8-second motion plus static fallbacks.
+- `technologies/toolkit.svg` and `banners/contact-premium.svg` complete the kit.
+
+All chart visuals are illustrative. The images supplement readable README text and **must not** be described as screenshots of real live datasets. The new files do not delete or overwrite the legacy v2 assets.

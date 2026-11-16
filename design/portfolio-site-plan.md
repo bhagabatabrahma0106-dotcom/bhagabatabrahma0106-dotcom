@@ -24,3 +24,7 @@
 6. Publish only with separate authorization to change the protected website repositories.
 
 **Status:** Planning document only; not an implementation or a claim of deployment.
+
+## v3 implementation status
+
+The separate `Bhagabata-Portfolio-Data-Analyst` feature branch contains `PremiumStudio.tsx`, `PremiumLearning.tsx`, six local project artwork SVGs, and `App.tsx` changes to render evidence-led sections while preserving older source files. A branch-only GitHub Actions build is configured. No merge, production Vercel deployment, or modifications to the other portfolio repositories are claimed. This section supersedes the earlier plan-only status.
